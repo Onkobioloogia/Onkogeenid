@@ -6,7 +6,7 @@ job         : vanemteadur, VTAK
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
-widgets     : []            # {mathjax, quiz, bootstrap}
+widgets     : mathjax            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 ---
@@ -65,9 +65,33 @@ strong {
 ![rsvlife](http://o.quizlet.com/xJ0AWub9I3KjpnUom79whw.png)
 
 ----
-## New slide
+## Tuumorviiruseid nagu eriti pole
 
-ekjhelkckwjdnckwn
+Kliiniliselt olulistest vähkidest on viirustega seotud ainult  
 
+- emakakaela kasvajad *HPV 16/18* ja 
+  - kuues kõige sagedasem kasvaja naistel (16. mõlema soo kokkuvõttes)   
+- maksakartsinoomid *HCV ja HBV* 
 
+<img src="assets/fig/cervical.png" title="Emakakaela kasvajad (C53), esmaleiud vanusegrupiti, UK, 2009-2011" alt="Emakakaela kasvajad (C53), esmaleiud vanusegrupiti, UK, 2009-2011" style="display: block; margin: auto;" />
 
+Bosch FX, Lorincz A, Muñoz N, et al. The causal relation between human papillomavirus and cervical cancer. J Clin Path 2002; 55(4):244-265.
+
+---&twocol
+## Maksakasvajate intsidents langeb kokku HCV või HBV nakkusega
+
+***=left
+- countries with a high prevalence of HBV or HCV infections usually have a high incidence of HCC.
+- This finding is consistent with the fact that about three-quarters of HCCs are attributed to chronic HBV and HCV infections.
+
+***=right
+![HCC](http://img.medscape.com/article/724/651/724651-figure-1.jpg)
+
+----
+## Mis tekitab vähki - kartsionogeenid
+
+Kartsinogeenid toimivad mutageenidena ja nende toime-mehhanismiks on raku kasvukontrolli geenide muteerimine **onkogeenideks**.
+
+$$normaalne\; kasvu-kontrolli\; geen \quad \underrightarrow{\times\; mutageen} \quad onkogeen $$
+
+![popeye](http://www.artrepublic.com/attachments/image/469/21469/21469_400xscale_c.jpeg "Pilt:artrepublic.com")
