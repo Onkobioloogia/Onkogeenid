@@ -1,6 +1,6 @@
 library(slidify)
 setwd("~/Dropbox/Onkobioloogia/Onkogeenid/")
-publish(repo="Onkogeenid",user="tpall")
+publish(repo="Onkogeenid", user="tpall")
 
 ## susapusa
 # system("ssh-add ~/.ssh/id_rsa")
