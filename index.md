@@ -54,15 +54,16 @@ strong {
 }
 </style>
 
-## Read-And-Delete
+--- bg:lavender
+## RSV virion
 
-1. Edit YAML front matter
-2. Write using R Markdown
-3. Use an empty line followed by three dashes to separate slides!
+![rsv](http://o.quizlet.com/i.WMzcRr-oCjtmBh2GiwwA.png)
 
---- .class #id 
+--- bg:lavender
+## Lihtsa retroviiruse elutsükkel
 
-## Slide 2
+![rsvlife](http://o.quizlet.com/xJ0AWub9I3KjpnUom79whw.png)
+
 
 
 
