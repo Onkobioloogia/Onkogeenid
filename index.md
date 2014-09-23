@@ -115,32 +115,6 @@ Mehhanism: **insertsiooniline mutagenees**
 --- .segue .dark .nobackground
 ## Kuidas seletada vähi teket inimesel
 
-----
-## Mis tekitab vähki? Kartsenogeenid!
-
-Kartsenogeenid toimivad mutageenidena ja nende toime-mehhanismiks on raku kasvukontrolli geenide muteerimine **onkogeenideks**.
-
-$$\color{green}{normaalne\; kasvu kontrolli\; geen} \quad \underrightarrow{\times\; \color{red}{mutageen}} \quad \color{yellow}{onkogeen} $$
-
-![popeye](http://www.artrepublic.com/attachments/image/469/21469/21469_400xscale_c.jpeg "Pilt:artrepublic.com")
-
---- &twocol
-## Keemilised kartsenogeenid
-
-***=left
-
-![KY](http://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Yamagiwa.JPG/300px-Yamagiwa.JPG)
-
-
-Katsusaburō Yamagiwa
-
-***=right
-- 1915. aastal demonstreeris **pigi** kartsenogeense toime
-- pintseldas küüliku kõrvu igapäevaselt pigiga,
-- mitu kuud hiljem moodustus lamerakuline kartsinoom.
-
-**Näitas, et kasvajaid on võimalik esile kutsuda**
-
 --- bg:lavender
 ## Hüpotees: endogeensed proviirused
 
@@ -169,6 +143,34 @@ Katsusaburō Yamagiwa
     - mittefunktsionaalsed,
     - läbinud geenitriivi ja fikseerunud (populatsioonis on kõigil identne lookus).
 - HERV-K alamperekonnas on lookuseid millel on kõik ORF-id intaktsed, kuid viirust neilt ei toodeta ja neid pole ka vähkides leitud 
+
+---
+## Mis tekitab vähki? Kartsenogeenid!
+
+Kartsenogeenid toimivad mutageenidena ja nende toime-mehhanismiks on raku kasvukontrolli geenide muteerimine **onkogeenideks**.
+
+$$\color{green}{normaalne\; kasvu kontrolli\; geen} \quad \underrightarrow{\times\; \color{red}{mutageen}} \quad \color{yellow}{onkogeen} $$
+
+![popeye](http://www.artrepublic.com/attachments/image/469/21469/21469_400xscale_c.jpeg "Pilt:artrepublic.com")
+
+--- &twocol
+## Keemilised kartsenogeenid
+
+***=left
+
+![KY](http://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Yamagiwa.JPG/300px-Yamagiwa.JPG)
+
+
+Katsusaburō Yamagiwa
+
+***=right
+- 1915. aastal demonstreeris **pigi** kartsenogeense toime
+- pintseldas küüliku kõrvu igapäevaselt pigiga,
+- mitu kuud hiljem moodustus lamerakuline kartsinoom.
+
+**Näitas, et kasvajaid on võimalik esile kutsuda**
+
+
 
 ---
 ## Paradigma: kartsenogeenid toimivad mutageenidena
