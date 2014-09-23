@@ -118,9 +118,9 @@ Bosch FX, Lorincz A, Muñoz N, et al. The causal relation between human papillom
 ## Kuidas seletada vähi teket inimesel
 
 ----
-## Mis tekitab vähki? Kartseonogeenid!
+## Mis tekitab vähki? Kartsenogeenid!
 
-Kartsinogeenid toimivad mutageenidena ja nende toime-mehhanismiks on raku kasvukontrolli geenide muteerimine **onkogeenideks**.
+Kartsenogeenid toimivad mutageenidena ja nende toime-mehhanismiks on raku kasvukontrolli geenide muteerimine **onkogeenideks**.
 
 $$\color{green}{normaalne\; kasvu kontrolli\; geen} \quad \underrightarrow{\times\; \color{red}{mutageen}} \quad \color{yellow}{onkogeen} $$
 
