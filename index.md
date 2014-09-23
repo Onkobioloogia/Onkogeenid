@@ -54,8 +54,11 @@ strong {
 }
 </style>
 
+--- .segue .dark .nobackground
+## Recap
+
 --- &twocol bg:lavender
-## Tuumorviirused transformeerviad kana ja hiire rakke
+## Lihtsad retroviirused transformeerivad kana ja hiire rakke
 
 ***=left
 ![rsv](http://o.quizlet.com/i.WMzcRr-oCjtmBh2GiwwA.png)
@@ -66,13 +69,20 @@ strong {
 Mehhanism: **insertsiooniline mutagenees** 
 
 ----
-## Inimesel tuumorviiruseid nagu eriti pole
+## Inimese tuumorviirused
 
-Kliiniliselt olulistest vähkidest on viirustega seotud ainult  
+- Insertsioonilist mehhanismi pole
 
-- emakakaela kasvajad *HPV 16/18* ja 
-  - kuues kõige sagedasem kasvaja naistel (16. mõlema soo kokkuvõttes)   
-- maksakartsinoomid *HCV ja HBV* - 80% maksakasvajatest
+- Kliiniliselt olulistest vähkidest on viirustega seotud  
+
+  - **emakakaela kasvajad**, papilloomiviirused *HPV 16/18* ja 
+        - kuues kõige sagedasem kasvaja naistel (16. mõlema soo kokkuvõttes)   
+  - **maksakartsinoomid**, B ja C hepatiit *HCV ja HBV* - 80% maksakasvajatest
+  - **Burkitt'i lümfoom**, Epstein-Barri viirus *EBV* - 2.5% lümfoomidest
+
+
+---
+## Emakakaela kasvajad
 
 <img src="assets/fig/cervical.png" title="Emakakaela kasvajad (C53), esmaleiud vanusegrupiti, UK, 2009-2011" alt="Emakakaela kasvajad (C53), esmaleiud vanusegrupiti, UK, 2009-2011" style="display: block; margin: auto;" />
 
@@ -88,11 +98,41 @@ Bosch FX, Lorincz A, Muñoz N, et al. The causal relation between human papillom
 ***=right
 ![HCC](http://img.medscape.com/article/724/651/724651-figure-1.jpg)
 
+--- &twocol
+
+***=left
+## Malaaria võimaldab EBV-l 'kapist välja' tulla 
+
+***=right
+![malaria](http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2012/2/2/1328205987540/Malaria-graphic-008.jpg)
+
+![BL](world.png)
+
+--- .segue .dark .nobackground
+## Kuidas seletada vähi teket inimesel
+
 ----
-## Mis tekitab vähki - kartsionogeenid
+## Mis tekitab vähki? Kartsionogeenid!
 
 Kartsinogeenid toimivad mutageenidena ja nende toime-mehhanismiks on raku kasvukontrolli geenide muteerimine **onkogeenideks**.
 
 $$\color{green}{normaalne\; kasvu kontrolli\; geen} \quad \underrightarrow{\times\; \color{red}{mutageen}} \quad \color{yellow}{onkogeen} $$
 
 ![popeye](http://www.artrepublic.com/attachments/image/469/21469/21469_400xscale_c.jpeg "Pilt:artrepublic.com")
+
+--- &twocol
+## Keemilised kartsenogeenid
+
+***=left
+
+![KY](http://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Yamagiwa.JPG/300px-Yamagiwa.JPG)
+
+
+Katsusaburō Yamagiwa
+
+***=right
+- 1915. aastal demonstreeris **pigi** kartsenogeense toime
+- pintseldas küüliku kõrvu igapäevaselt pigiga,
+- mitu kuud hiljem moodustus lamerakuline kartsinoom.
+
+**Näitas, et kasvajaid on võimalik esile kutsuda**
