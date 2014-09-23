@@ -141,7 +141,7 @@ Katsusaburō Yamagiwa
 
 **Näitas, et kasvajaid on võimalik esile kutsuda**
 
---- 
+--- bg:lavender
 ## Hüpotees: endogeensed proviirused
 
 - Lähtudes retroviiruste elutsüklist, integreeruvad genoomi **endogeensete retroviirustena**,
@@ -149,7 +149,7 @@ Katsusaburō Yamagiwa
 - enamasti vaikeolekus, ei transkribeeri oma geene,
 - juhuslik ning harv aktiveerumine.
 
---- 
+--- bg:lavender
 ## Endogeensed proviirused hiirtel
 
 - BrdU aktiveerib Akr liini hiirtel endogeensed retroviirused (*MLV*)
@@ -159,15 +159,15 @@ Katsusaburō Yamagiwa
 
 ![ERV](http://www.jimmunol.org/content/192/4/1343/F1.large.jpg)
 
----
+--- bg:lavender
 ## Inimese ERV-d... FUBAR
 
 - 8% inimese genoomist pärineb retroviirustest, kuid
 - inimese kasvajatest pole leitud retroviiruseid ega jälgigi nendest (pöörd-transkriptaas),
-- inimese LTR-i sisaldavad järjestused on pärit ~5M aasta tagusest ajast, 
+- inimese LTR-i sisaldavad järjestused on pärit vähemalt >5M aasta tagusest ajast, 
     - tugevasti muteerunud, 
     - mittefunktsionaalsed,
-    - läbinud geenitriivi (populatsioonis on kõigil identne lookus).
+    - läbinud geenitriivi ja fikseerunud (populatsioonis on kõigil identne lookus).
 
 
 ---
