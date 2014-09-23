@@ -54,24 +54,25 @@ strong {
 }
 </style>
 
---- bg:lavender
-## RSV virion
+--- &twocol bg:lavender
+## Tuumorviirused transformeerviad kana ja hiire rakke
 
+***=left
 ![rsv](http://o.quizlet.com/i.WMzcRr-oCjtmBh2GiwwA.png)
 
---- bg:lavender
-## Lihtsa retroviiruse elutsükkel
-
+***=right
 ![rsvlife](http://o.quizlet.com/xJ0AWub9I3KjpnUom79whw.png)
 
+Mehhanism: **insertsiooniline mutagenees** 
+
 ----
-## Tuumorviiruseid nagu eriti pole
+## Inimesel tuumorviiruseid nagu eriti pole
 
 Kliiniliselt olulistest vähkidest on viirustega seotud ainult  
 
 - emakakaela kasvajad *HPV 16/18* ja 
   - kuues kõige sagedasem kasvaja naistel (16. mõlema soo kokkuvõttes)   
-- maksakartsinoomid *HCV ja HBV* 
+- maksakartsinoomid *HCV ja HBV* - 80% maksakasvajatest
 
 <img src="assets/fig/cervical.png" title="Emakakaela kasvajad (C53), esmaleiud vanusegrupiti, UK, 2009-2011" alt="Emakakaela kasvajad (C53), esmaleiud vanusegrupiti, UK, 2009-2011" style="display: block; margin: auto;" />
 
@@ -81,7 +82,7 @@ Bosch FX, Lorincz A, Muñoz N, et al. The causal relation between human papillom
 ## Maksakasvajate intsidents langeb kokku HCV või HBV nakkusega
 
 ***=left
-- countries with a high prevalence of HBV or HCV infections usually have a high incidence of HCC.
+- Maades kus B ja C heptiit on laialt levinud, on ka  HCC intsidents õrge.
 - This finding is consistent with the fact that about three-quarters of HCCs are attributed to chronic HBV and HCV infections.
 
 ***=right
@@ -92,6 +93,6 @@ Bosch FX, Lorincz A, Muñoz N, et al. The causal relation between human papillom
 
 Kartsinogeenid toimivad mutageenidena ja nende toime-mehhanismiks on raku kasvukontrolli geenide muteerimine **onkogeenideks**.
 
-$$normaalne\; kasvu-kontrolli\; geen \quad \underrightarrow{\times\; mutageen} \quad onkogeen $$
+$$\color{green}{normaalne\; kasvu kontrolli\; geen} \quad \underrightarrow{\times\; \color{red}{mutageen}} \quad \color{yellow}{onkogeen} $$
 
 ![popeye](http://www.artrepublic.com/attachments/image/469/21469/21469_400xscale_c.jpeg "Pilt:artrepublic.com")
