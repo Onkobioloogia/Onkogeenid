@@ -68,6 +68,10 @@ strong {
 
 Mehhanism: **insertsiooniline mutagenees** 
 
+---
+
+![retroviirused](http://www.jimmunol.org/content/192/4/1343/F2.large.jpg)
+
 ----
 ## Inimese tuumorviirused
 
@@ -146,3 +150,33 @@ Katsusaburō Yamagiwa
 --- 
 ## Hüpotees: endogeensed proviirused
 
+- Lähtudes retroviiruste elutsüklist, integreeruvad genoomi **endogeensete retroviirustena**,
+- satuvad idutee rakkudesse ja muutuvad pärilikuks,
+- enamasti vaikeolekus, ei transkribeeri oma geene,
+- juhuslik ning harv aktiveerumine.
+
+--- 
+## Endogeensed proviirused hiirtel
+
+- BrdU aktiveerib Akr liini hiirtel endogeensed retroviirused (*MLV*)
+    - DNA metülatsioon eemaldatakse lookusest ja vaigistamine kaob
+- Akr liini hiirtel on kaks lookust kuhu on integreerunud replikatsiooni-kompetentne MLV
+- MLV produktsioon viib leukeemia tekkele.
+
+![ERV](http://www.jimmunol.org/content/192/4/1343/F1.large.jpg)
+
+---
+## Inimese ERV-d... FUBAR
+
+- 8% inimese genoomist pärineb retroviirustest, kuid
+- inimese kasvajatest pole leitud retroviiruseid ega jälgigi nendest (pöörd-transkriptaas),
+- inimese LTR-i sisaldavad järjestused on pärit ~5M aasta tagusest ajast, 
+    - tugevasti muteerunud, 
+    - mittefunktsionaalsed,
+    - läbinud geenitriivi (populatsioonis on kõigil identne lookus).
+
+
+---
+## Refs
+
+- [Natalie Teich, Douglas R. Lowy, Janet W. Hartley, Wallace P. Rowe, Studies of the mechanism of induction of infectious murine leukemia virus from AKR mouse embryo cell lines by 5-iododeoxyuridine and 5-bromodeoxyuridine, Virology, Volume 51, Issue 1, January 1973, Pages 163-173, ISSN 0042-6822, http://dx.doi.org/10.1016/0042-6822(73)90376-0.](http://www.sciencedirect.com/science/article/pii/0042682273903760)
