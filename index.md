@@ -90,7 +90,7 @@ Mehhanism: **insertsiooniline mutagenees**
 
 <img src="assets/fig/cervical.png" title="Emakakaela kasvajad (C53), esmaleiud vanusegrupiti, UK, 2009-2011" alt="Emakakaela kasvajad (C53), esmaleiud vanusegrupiti, UK, 2009-2011" style="display: block; margin: auto;" />
 
-Bosch FX, Lorincz A, Muñoz N, et al. The causal relation between human papillomavirus and cervical cancer. J Clin Path 2002; 55(4):244-265.
+<p style="font-size:12px">Bosch FX, Lorincz A, Muñoz N, et al. The causal relation between human papillomavirus and cervical cancer. J Clin Path 2002; 55(4):244-265.</p>
 
 ---&twocol
 ## Maksakasvajate intsidents langeb kokku HCV või HBV nakkusega
@@ -168,6 +168,31 @@ Katsusaburō Yamagiwa
     - tugevasti muteerunud, 
     - mittefunktsionaalsed,
     - läbinud geenitriivi ja fikseerunud (populatsioonis on kõigil identne lookus).
+- HERV-K alamperekonnas on lookuseid millel on kõik ORF-id intaktsed, kuid viirust neilt ei toodeta ja neid pole ka vähkides leitud 
+
+---
+## Paradigma: kartsenogeenid toimivad mutageenidena
+
+<q>Füüsilise või keemilise katserogeeni poolt transformeerunud rakud kannavad muteerunud geene - *onkogeene* - , mis rikuvad normaalse kasvukontrolli.</q>
+
+--- &twocol
+## DNA transfektsioon võimaldas isoleerida mitte-viraalsed onkogeenid
+
+***=left
+- Hiire C3HT1/2 rakke transformeeriti *3-Methylcholanthrene* (3-ME, MCA) abil,
+- transformeerunud rakkudest isoleeriti genoomne DNA,
+- eraldatud DNA transformeeriti mitte-tumorigeensetesse NIH3T3 rakkudesse,
+- isoleeriti kolooniad mis olid transformeerunud ja tumorigeensed.
+- Sama loogika toimib ka inimese vähirakkudest eraldatud DNA korral.
+
+***=right
+
+![onkog](http://www.ncbi.nlm.nih.gov/books/NBK190612/bin/ch6fu3.jpg)
+<p style="font-size:10px">Credit: Sue Weil, Memorial Sloan-Kettering Cancer Center</p>
+
+---
+## 1 onkogeen = 1 transformant
+
 
 
 ---
