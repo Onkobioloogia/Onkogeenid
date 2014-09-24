@@ -79,9 +79,11 @@ Mehhanism: **insertsiooniline mutagenees**
 
 - Kliiniliselt olulistest vähkidest on viirustega seotud  
 
-  - **emakakaela kasvajad**, papilloomiviirused *HPV 16/18* ja 
+  - **emakakaela kasvajad**, ~100% nakatunud papilloomiviirusega *HPV 16/18* ja 
         - kuues kõige sagedasem kasvaja naistel (16. mõlema soo kokkuvõttes)   
   - **maksakartsinoomid**, B ja C hepatiit *HCV ja HBV* - 80% maksakasvajatest
+
+- Haruldasematest
   - **Burkitt'i lümfoom**, Epstein-Barri viirus *EBV* - 2.5% lümfoomidest
 
 
@@ -97,6 +99,11 @@ qplot(x=Age.Range,y=Female.Rates, data=cc, stat="identity", geom="bar", fill="re
 ```
 
 <p style="font-size:12px">Bosch FX, Lorincz A, Muñoz N, et al. The causal relation between human papillomavirus and cervical cancer. J Clin Path 2002; 55(4):244-265.</p>
+
+---
+## Expression levels of genes typically altered in cervical carcinomas with HPV integration
+
+![hpv](http://www.nature.com/ncomms/2013/131001/ncomms3513/images_article/ncomms3513-f5.jpg)
 
 ---&twocol
 ## Maksakasvajate intsidents langeb kokku HCV või HBV nakkusega
@@ -240,11 +247,103 @@ Retikuloendotelioos | kalkun | rel | transkriptsioonifaktor | lümfoom
 ---
 ## MYC 
 
-- Üks esimesi onkogeene mis avastati peale src-i, lindude müelotsütoomi viirus  MC29
+- Üks esimesi onkogeene mis avastati peale src-i, lindude müelotsütoomi viirus  MC29-st
 - Heterodimeerne transkriptsioonifaktor, peab dimeriseeruma teise bHLH TF-ga: 
       - ainult MYC:MAX heterodimeer seob DNA-le ja aktiveerib transkriptsiooni
 - MAX seob MYC-perekonna valke: MYC, MYCN, MYCL
 - MYC TF seostub *E-box* järjestusele *CACGTG*
+- MYC vähid: Burkitti lümfoom, neuroblastoom
+- Onkogeenseteks mutatsioonideks on transkriptsiooni üles-regulatsioon ja amplifikatsioon
+
+---
+## ERBB
+
+- Kireldati algselt lindude erütroblastoosi tüvest R aastal 1935
+    - R-tüvi sisaldas kahte rakulist onkogeeni erbA a erbB
+        - erbA osutus hiljem mitte obligatoorseks hormoonretseptoriks
+        - **erbB oli transformatsiooniks vajalik ja piisav**
+- Membranne türosiin-kinaas, homoloogne EGF retseptoriga 
+- Võrreldes EGFR-iga oli ErbB-l ekstratsellulaarne osa deleteerunud
+    - selline deletsioonimutant ei seo ligandi (EGF), kuid on konstitutiivselt aktiivne
+- inimesel glioblastoomides tavaline analoogne mutant **EGFRvIII**, kus on deleteerunud eksonid 2-7
+
+--- &twocol
+## SRC
+
+***=left
+- Huvitaval kombel SRC-i inimese kasvajatest eriti ei leitud
+    - esineb ~12% kaugele arenenud käärsoole kartsinoomides *colorectal carcinoma*
+- Src-perekonna kinaasid *Src family kinases (SFK)* on (Src, Fyn, Yes, Lck, Lyn, Hck, Fgr and Blk)
+- Paradoksaalselt SRC näiteks rakkude jagunemist ei mõjuta, **toimib adhesioonides ja on seotud vähi invaseerumisega**.
+
+***=right
+![src](src.png)
+
+
+--- .segue .dark .nobackground
+## Inimese proto-onkogeenide aktivatsioonimehhanismid
+
+---
+## Viirustes
+
+- Retroviirusega seotud onkogeenide puhul läheb geen raku kontrolli alt viiruse kontrolli alla
+    - myc ekspressioon on füsioloogilistes tingimustes kasvufaktorite kontrolli all
+    - AMV (*Avian Myeoloblastosis Virus*) genoomis hakatakse aga myc järjestust **konstitutiivselt ekspresseerima**.
+
+
+---
+## Mutatsioonid
+
+Lisaks amplifikatsioonile ja üle-ekspressioonile on ka **mutatsioonid**
+
+- H-ras mis isoleeriti inimese kusepõie kartsinoomist ei olnud amplifitseerunud,
+- sekveneerimine näitas somaatilist G->T punktmutatsiooni, mis oli täiesti piisav et H-ras onkogeeniks muuta
+- Vähides esinev mutatsioon koodonites 12 või 61 muudab Ras-i konstitutiivselt aktiivseks, rikkudes GAP (*GTP-ase activating protein*) valgu seostumise
+
+
+---
+## Ras-i mutatsioonid
+
+Ras geenid on vähkides ühed sagedamini muteerunud geenidest (TCGA andmetel läbilõikes 10%)
+
+Vähipaige/tüüp | % muteerunud RAS geeniga (homoloog)
+---------|-------------------------
+kõhunääre | 90 (K)
+kilpnääre (papillaarne) | 60 (H,K,N)
+kilpnääre (follikulaarne) | 55 (H,K,N)
+käärsool | 45 (K)
+seminoom | 45 (K,N)
+müelodüsplaasia | 40 (N,K)
+kops (mitte-väikserakuline) | 35 (K)
+AML | 30 (N)
+maks | 30 (N)
+melanoom | 15 (K)
+kusepõis | 10 (K)
+neer | 10 (H)
+
+---
+## Onkogeenide aktivatsioonimehhanismid
+
+- Regulatoorsed (amplifikats, deletsioon)
+- Rtruktuursed (mutatsioonid)
+- Regulatoorsed $\times$ Struktuursed
+
+
+![muts](http://www.nature.com/ng/journal/v45/n10/images/ng.2762-F2.jpg)
+
+--- &twocol
+## N-MYC amplifikatsioon pärilikes neuroblastoomides
+
+***=left
+
+Kahte tüüpi amplifikatsioone
+- HSR, homogeenselt värvuvad piirkonnad
+- DM, *double minutes*: kromosoomi välised partiklid
+- amplifikatsioonid on bimodaalsed 10-30 koopiat ja 100-150 koopiat
+- lisaks neuroblastoomidele ka teistes neuroektodermaal kasvajates, astrotsütoomid, glioomid, ka väikse-rakulises kopsukasvajas.
+
+***=right
+![hsr](http://streaming.cineca.it/sestri/courses/cancgen/img/Maris/image053.jpg)
 
 
 ---
