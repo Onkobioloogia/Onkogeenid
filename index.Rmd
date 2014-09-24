@@ -92,7 +92,7 @@ Mehhanism: **insertsiooniline mutagenees**
 library(ggplot2)
 cc <- read.csv("cervicalcancer.csv")
 qplot(x=Age.Range,y=Female.Rates, data=cc, stat="identity", geom="bar", fill="red") + ylab("Intsidents 100,000 kohta (naised)") + xlab("Vanusegrupid") +
-  ggtitle("Emakakaela kasvajad (C53), esmaleiud vanusegrupiti, UK, 2009-2011")+ guides(fill=FALSE) + 
+  ggtitle("Emakakaela kasvajad (C53), esmasleiud vanusegrupiti, UK, 2009-2011")+ guides(fill=FALSE) + 
   theme(axis.text.x  = element_text(angle=90, vjust=0.5))
 ```
 
@@ -183,7 +183,7 @@ Katsusaburō Yamagiwa
 
 <q>Füüsilise või keemilise katserogeeni poolt transformeerunud rakud kannavad muteerunud geene - *onkogeene* - , mis rikuvad normaalse kasvukontrolli.</q>
 
---- &twocol
+--- &twocol bg:pink
 ## DNA transfektsioon võimaldas isoleerida mitte-viraalsed onkogeenid
 
 ***=left
@@ -191,17 +191,54 @@ Katsusaburō Yamagiwa
 - transformeerunud rakkudest isoleeriti genoomne DNA,
 - eraldatud DNA transformeeriti mitte-tumorigeensetesse NIH3T3 rakkudesse,
 - isoleeriti kolooniad mis olid transformeerunud ja tumorigeensed.
-- Sama loogika toimib ka inimese vähirakkudest eraldatud DNA korral.
+- *Sama loogika toimib ka inimese vähirakkudest eraldatud DNA korral.*
 
 ***=right
 
 ![onkog](http://www.ncbi.nlm.nih.gov/books/NBK190612/bin/ch6fu3.jpg)
 <p style="font-size:10px">Credit: Sue Weil, Memorial Sloan-Kettering Cancer Center</p>
 
+--- bg:pink
+## 1 onkogeen = 1 transformeerunud rakk/koloonia
+
+- Transformeerunud rakkude genoomse DNA fragmentide **transfekteerimisel läheb rakku sisse 0.1% doonor DNA-d**.
+- Tõenäosus, et kaks lingitud geeni satuvad ühte rakku on $$10^{-3} \times 10^{-3} = 10^{-6} $$ 
+
+<q>Kokkuvõte: onkogeenid tekivad ka viirustest sõltumatult.</q>
+
+--- &twocol bg:pink
+## Retroviiruste poolt aktiveeritud onkogeenid on samad mis mitte-viraalsete kartsenogeenide aktiveeritud
+
+- 1982. Parada et. al: Harvey roti sarkoomiviiruse H-ras proov hübridiseerub inimese kusepõie kartsinoomi DNA-ga transfekteeritud NIH3T3 rakkude genoomsele DNA-le.
+
+***=left
+
+![sb](http://missinglink.ucsf.edu/lm/molecularmethods/images/blotting_clip_image001.gif)
+
+***=right
+
+![parada](http://o.quizlet.com/xr9WvHaD36Lp0zMgy4XrtQ_m.png)
+
+----
+## Inimese kasvajatest leitud retroviraalsed onkogeenid, näited
+
+Viirus | Liik | Onkogeen | Onkovalk | Inimese kasvaja
+-------|------|----------|----------|----------------------------
+Rousi sarkoom | kana | src | mitte-retseptor TK | käärsoole vähk
+Abelsoni leukeemia | hiir | abl | mitte-retseptor TK | CML
+Lindude erütroblastoos | hiir | erbB | retseptor TK | mao-, kopsu- ja rinnavähk
+McDonough' kassi sarkoom | kass | fms | retseptor TK | AML
+Hardy-Zuckerman kassi viirus | kass | kit | retseptor TK | GI strooma vähk
+Hiire sarkoom 3611 | hiir | raf | Ser/Thr kinaas | kusepõie kartsinoom
+*Simian sarcoma* | ahv | sis | kasvufaktor (PDGF) | erinevad vähid
+Harvey' sarkoom | hiir/rott | H-ras | väike G-valk | kusepõie kartsinoom
+Kirsten'i sarkoom | hiir/rott | K-ras | väike G-valk | erinevad vähid
+Lindude erütroblastoos E26 | kana | ets | transkriptsioonifaktor | leukeemia
+Lindude müelotsütoom | kana | myc | transkriptsioonifaktor | erinevad vähid
+Retikuloendotelioos | kalkun | rel | transkriptsioonifaktor | lümfoom
+
 ---
-## 1 onkogeen = 1 transformant
-
-
+## MYC 
 
 ---
 ## Refs
