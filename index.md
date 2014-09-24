@@ -234,6 +234,13 @@ Retikuloendotelioos | kalkun | rel | transkriptsioonifaktor | lümfoom
 ---
 ## MYC 
 
+- Üks esimesi onkogeene mis avastati peale src-i, lindude müelotsütoomi viirus  MC29
+- Heterodimeerne transkriptsioonifaktor, peab dimeriseeruma teise bHLH TF-ga: 
+      - ainult MYC:MAX heterodimeer seob DNA-le ja aktiveerib transkriptsiooni
+- MAX seob MYC-perekonna valke: MYC, MYCN, MYCL
+- MYC TF seostub *E-box* järjestusele *CACGTG*
+
+
 ---
 ## Refs
 
