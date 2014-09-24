@@ -266,7 +266,18 @@ Retikuloendotelioos | kalkun | rel | transkriptsioonifaktor | lümfoom
 - Võrreldes EGFR-iga oli ErbB-l ekstratsellulaarne osa deleteerunud
     - selline deletsioonimutant ei seo ligandi (EGF), kuid on konstitutiivselt aktiivne
 - inimesel glioblastoomides tavaline analoogne mutant **EGFRvIII**, kus on deleteerunud eksonid 2-7
-- rinnakasvajates HER2/ERBB2/Neu lookuse amplifikatsioon 80% sagedusega *HER2-enriched* subtüübis  
+- rinnakasvajates HER2/ERBB2/Neu lookuse amplifikatsioon 80% sagedusega *HER2-enriched* subtüübis
+
+--- &twocol
+## HER2 lookuse amplifikatsioon rinnakasvajates
+
+***=left
+
+![her2amp](http://o.quizlet.com/4hKzpWIbUoXVlJBgORKAdQ.png)
+
+***=right
+
+![her2](http://o.quizlet.com/wHbte32fOboNNF1Ds9Qsyw.png)
 
 --- &twocol
 ## SRC
