@@ -319,11 +319,20 @@ neer | 10 (H)
 ## Onkogeenide aktivatsioonimehhanismid
 
 - Regulatoorsed (amplifikats, deletsioon)
-- Rtruktuursed (mutatsioonid)
+- Struktuursed (mutatsioonid)
 - Regulatoorsed $\times$ Struktuursed
 
 
 ![muts](http://www.nature.com/ng/journal/v45/n10/images/ng.2762-F2.jpg)
+
+--- 
+## MYC-i aktivatsiooniks kolm mehhanismi 
+
+Kolm mehhanismi, kõik regulatoorsed:
+- proviiruse integratsioon (linnud)
+- geeni amplifikatsioon (inimene)
+- kromosomaalsed translokatsioonid
+
 
 --- &twocol
 ## N-MYC amplifikatsioon pärilikes neuroblastoomides
@@ -339,6 +348,40 @@ Kahte tüüpi amplifikatsioone
 ***=right
 ![hsr](http://streaming.cineca.it/sestri/courses/cancgen/img/Maris/image053.jpg)
 
+--- &twocol
+## Sagedamini amplifitseerunud genoomipiirkonnad
+
+***=left
+
+![tcga](http://www.nature.com/ng/journal/v45/n10/images/ng.2760-F3.jpg)
+
+***=right
+
+Significantly recurrent focal SCNAs
+
+<p style="font-size:12px">Pan-cancer patterns of somatic copy number alteration
+Travis I Zack,  Steven E Schumacher,	Scott L Carter,	Andrew D Cherniack,	Gordon Saksena,	Barbara Tabak,	Michael S Lawrence,	Cheng-Zhong Zhang,	Jeremiah Wala,	Craig H Mermel,	Carrie Sougnez,	Stacey B Gabriel,	Bryan Hernandez,	Hui Shen,	Peter W Laird,	Gad Getz,	Matthew Meyerson	& Rameen Beroukhim Nature Genetics 45, 1134–1140 (2013) doi:10.1038/ng.2760</p>
+
+Top 10:
+
+Geen | Funktsioon
+-----|-----------
+CCND1 | G1 tsükliin
+EGFR | TK retseptor
+MYC | transkripts. faktor
+ERBB2 | TK retseptor
+CCNE1 | G1 tsükliin
+MCL1 | anti-apoptootiline valk
+MDM2 | p53 E3 ubikvitiini ligaas
+
+--- 
+## MYC translokatsioon
+
+MYC aktivatsioon translokatsioonilise mehhanismi teel
+- Burkitti lümfoomides
+- c-myc geene translokeeritakse immunoglobuliini lookusesse kõigis BL.
+- Immunoglobulin raske ahel IgH 80%,
+$\kappa$ või $\lambda$ kerge ahel, kumbagi 10%.
 
 ---
 ## Refs
