@@ -298,7 +298,7 @@ Lisaks amplifikatsioonile ja üle-ekspressioonile on ka **mutatsioonid**
 
 - H-ras mis isoleeriti inimese kusepõie kartsinoomist ei olnud amplifitseerunud,
 - sekveneerimine näitas somaatilist G->T punktmutatsiooni, mis oli täiesti piisav et H-ras onkogeeniks muuta
-- Vähides esinev mutatsioon koodonites 12 või 61 muudab Ras-i konstitutiivselt aktiivseks, rikkudes GAP (*GTP-ase activating protein*) valgu seostumise
+- Vähides esinev mutatsioon koodonites 12 või 61 (G12V) muudab Ras-i konstitutiivselt aktiivseks, rikkudes GAP (*GTP-ase activating protein*) valgu seostumise
 
 
 ---
@@ -380,14 +380,26 @@ CCNE1 | G1 tsükliin
 MCL1 | anti-apoptootiline valk
 MDM2 | p53 E3 ubikvitiini ligaas
 
---- 
+--- &twocol
 ## MYC translokatsioon
 
 MYC aktivatsioon translokatsioonilise mehhanismi teel
+
+***=left
 - Burkitti lümfoomides
 - c-myc geene translokeeritakse immunoglobuliini lookusesse kõigis BL.
 - Immunoglobulin raske ahel IgH 80%,
 $\kappa$ või $\lambda$ kerge ahel, kumbagi 10%.
+
+Translokatsioon | Fuusion | Sagedus
+----------------|--------|--------
+t(8;14)(q24;q32)| IGH/MYC | 80%
+t(2;8)(p12;q24) | IGK/MYC | 10%
+t(8;22)(q24;q11) | IGL/MYC | 10 %
+
+***=right
+
+![myctrans](http://www.nature.com/nature/journal/v421/n6921/images/nature01409-f3.2.jpg)
 
 ---
 ## Refs
