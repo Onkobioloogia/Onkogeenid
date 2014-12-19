@@ -103,21 +103,31 @@ Mehhanism: **insertsiooniline mutagenees**
 ## Maksakasvajate intsidents langeb kokku HCV või HBV nakkusega
 
 ***=left
+
 - Maades kus B ja C heptiit on laialt levinud, on ka  HCC intsidents õrge.
 - This finding is consistent with the fact that about three-quarters of HCCs are attributed to chronic HBV and HCV infections.
 
 ***=right
-![HCC](http://img.medscape.com/article/724/651/724651-figure-1.jpg)
+
+<img src="http://img.medscape.com/article/724/651/724651-figure-1.jpg" style="width:400px;"/>
 
 --- &twocol
 
-***=left
 ## Malaaria võimaldab EBV-l 'kapist välja' tulla 
+# Malaaria haigestumus kattub mitte-Hodkinsi lümfoomi haigestumusega
+
+***=left
+
+# Malaaria Aafrikas
+
+<img src="http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2012/2/2/1328205987540/Malaria-graphic-008.jpg" style="width:460px;"/>
+
 
 ***=right
-![malaria](http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2012/2/2/1328205987540/Malaria-graphic-008.jpg)
 
-![BL](world.png)
+# NHL Aafrikas
+
+<img src="world.png" style="width:400px;"/>
 
 --- .segue .dark .nobackground
 ## Kuidas seletada vähi teket inimesel
@@ -185,9 +195,11 @@ Katsusaburō Yamagiwa
 <q>Füüsilise või keemilise katserogeeni poolt transformeerunud rakud kannavad muteerunud geene - *onkogeene* - , mis rikuvad normaalse kasvukontrolli.</q>
 
 --- &twocol bg:pink
+
 ## DNA transfektsioon võimaldas isoleerida mitte-viraalsed onkogeenid
 
 ***=left
+
 - Hiire C3HT1/2 rakke transformeeriti *3-Methylcholanthrene* (3-ME, MCA) abil,
 - transformeerunud rakkudest isoleeriti genoomne DNA,
 - eraldatud DNA transformeeriti mitte-tumorigeensetesse NIH3T3 rakkudesse,
@@ -196,8 +208,10 @@ Katsusaburō Yamagiwa
 
 ***=right
 
-![onkog](http://www.ncbi.nlm.nih.gov/books/NBK190612/bin/ch6fu3.jpg)
-<p style="font-size:10px">Credit: Sue Weil, Memorial Sloan-Kettering Cancer Center</p>
+<img src="http://www.ncbi.nlm.nih.gov/books/NBK190612/bin/ch6fu3.jpg" style="width:300px;"/>
+
+<footer class="source">Pilt: Sue Weil, Memorial Sloan-Kettering Cancer Center
+</footer>
 
 --- bg:pink
 ## 1 onkogeen = 1 transformeerunud rakk/koloonia
@@ -210,11 +224,14 @@ Katsusaburō Yamagiwa
 --- &twocol bg:pink
 ## Retroviiruste poolt aktiveeritud onkogeenid on samad mis mitte-viraalsete kartsenogeenide aktiveeritud
 
-- 1982. Parada et. al: Harvey roti sarkoomiviiruse H-ras proov hübridiseerub inimese kusepõie kartsinoomi DNA-ga transfekteeritud NIH3T3 rakkude genoomsele DNA-le.
+- Harvey roti sarkoomiviiruse H-ras proov hübridiseerub inimese kusepõie kartsinoomi DNA-ga transfekteeritud NIH3T3 rakkude genoomsele DNA-le ([Parada et al., 1982](http://www.ncbi.nlm.nih.gov/pubmed/6283357):  paremal).
 
 ***=left
 
-![sb](http://missinglink.ucsf.edu/lm/molecularmethods/images/blotting_clip_image001.gif)
+Southern bloti põhimõte
+
+<img src="http://missinglink.ucsf.edu/lm/molecularmethods/images/blotting_clip_image001.gif" style="width:400px;"/>
+
 
 ***=right
 
@@ -263,6 +280,7 @@ Retikuloendotelioos | kalkun | rel | transkriptsioonifaktor | lümfoom
 - rinnakasvajates HER2/ERBB2/Neu lookuse amplifikatsioon 80% sagedusega *HER2-enriched* subtüübis
 
 --- &twocol
+
 ## HER2 lookuse amplifikatsioon rinnakasvajates
 
 ***=left
@@ -274,19 +292,23 @@ Retikuloendotelioos | kalkun | rel | transkriptsioonifaktor | lümfoom
 ![her2](http://o.quizlet.com/wHbte32fOboNNF1Ds9Qsyw.png)
 
 --- &twocol
+
 ## SRC
 
 ***=left
+
 - Huvitaval kombel SRC-i inimese kasvajatest eriti ei leitud
     - esineb ~12% kaugele arenenud käärsoole kartsinoomides *colorectal carcinoma*
 - Src-perekonna kinaasid *Src family kinases (SFK)* on (Src, Fyn, Yes, Lck, Lyn, Hck, Fgr and Blk)
 - Paradoksaalselt SRC näiteks rakkude jagunemist ei mõjuta, **toimib adhesioonides ja on seotud vähi invaseerumisega**.
 
 ***=right
+
 ![src](src.png)
 
 
 --- .segue .dark .nobackground
+
 ## Inimese proto-onkogeenide aktivatsioonimehhanismid
 
 ---
@@ -298,6 +320,7 @@ Retikuloendotelioos | kalkun | rel | transkriptsioonifaktor | lümfoom
 
 
 ---
+
 ## Mutatsioonid
 
 Lisaks amplifikatsioonile ja üle-ekspressioonile on ka **mutatsioonid**
@@ -308,9 +331,9 @@ Lisaks amplifikatsioonile ja üle-ekspressioonile on ka **mutatsioonid**
 
 
 ---
-## Ras-i mutatsioonid
 
-Ras geenid on vähkides ühed sagedamini muteerunud geenidest (TCGA andmetel läbilõikes 10%)
+## Ras-i mutatsioonid
+# Ras geenid on vähkides ühed sagedamini muteerunud geenidest (TCGA andmetel läbilõikes 10%)
 
 Vähipaige/tüüp | % muteerunud RAS geeniga (homoloog)
 ---------|-------------------------
@@ -338,6 +361,7 @@ neer | 10 (H)
 ![muts](http://www.nature.com/ng/journal/v45/n10/images/ng.2762-F2.jpg)
 
 --- 
+
 ## MYC-i aktivatsiooniks kolm mehhanismi 
 
 Kolm mehhanismi, kõik regulatoorsed:
@@ -347,32 +371,35 @@ Kolm mehhanismi, kõik regulatoorsed:
 
 
 --- &twocol
+
 ## N-MYC amplifikatsioon pärilikes neuroblastoomides
 
 ***=left
 
 Kahte tüüpi amplifikatsioone
+
 - HSR, homogeenselt värvuvad piirkonnad
 - DM, *double minutes*: kromosoomi välised partiklid
 - amplifikatsioonid on bimodaalsed 10-30 koopiat ja 100-150 koopiat
 - lisaks neuroblastoomidele ka teistes neuroektodermaal kasvajates, astrotsütoomid, glioomid, ka väikse-rakulises kopsukasvajas.
 
 ***=right
-![hsr](http://streaming.cineca.it/sestri/courses/cancgen/img/Maris/image053.jpg)
+
+# HSR ja *double minutes* (nooled)
+
+<img src="http://streaming.cineca.it/sestri/courses/cancgen/img/Maris/image053.jpg" style="width:400px;">
 
 --- &twocol
+
 ## Sagedamini amplifitseerunud genoomipiirkonnad
 
 ***=left
 
-![tcga](http://www.nature.com/ng/journal/v45/n10/images/ng.2760-F3.jpg)
+<img src="http://www.nature.com/ng/journal/v45/n10/images/ng.2760-F3.jpg" style="width:380px">
 
 ***=right
 
-Significantly recurrent focal SCNAs
-
-<p style="font-size:12px">Pan-cancer patterns of somatic copy number alteration
-Travis I Zack,  Steven E Schumacher,	Scott L Carter,	Andrew D Cherniack,	Gordon Saksena,	Barbara Tabak,	Michael S Lawrence,	Cheng-Zhong Zhang,	Jeremiah Wala,	Craig H Mermel,	Carrie Sougnez,	Stacey B Gabriel,	Bryan Hernandez,	Hui Shen,	Peter W Laird,	Gad Getz,	Matthew Meyerson	& Rameen Beroukhim Nature Genetics 45, 1134–1140 (2013) doi:10.1038/ng.2760</p>
+# Olulised korduvad fokaalsed koopiaarvu muutused (SCNA)
 
 Top 10:
 
@@ -386,12 +413,17 @@ CCNE1 | G1 tsükliin
 MCL1 | anti-apoptootiline valk
 MDM2 | p53 E3 ubikvitiini ligaas
 
+
+<footer class="source">Pan-cancer patterns of somatic copy number alteration. Travis I Zack,  Steven E Schumacher,  Scott L Carter,	Andrew D Cherniack,	Gordon Saksena,	Barbara Tabak,	Michael S Lawrence,	Cheng-Zhong Zhang,	Jeremiah Wala,	Craig H Mermel,	Carrie Sougnez,	Stacey B Gabriel,	Bryan Hernandez,	Hui Shen,	Peter W Laird,	Gad Getz,	Matthew Meyerson	& Rameen Beroukhim Nature Genetics 45, 1134–1140 (2013) doi:10.1038/ng.2760
+</footer>
+
 --- &twocol
 ## MYC translokatsioon
 
 MYC aktivatsioon translokatsioonilise mehhanismi teel
 
 ***=left
+
 - Burkitti lümfoomides
 - c-myc geene translokeeritakse immunoglobuliini lookusesse kõigis BL.
 - Immunoglobulin raske ahel IgH 80%,
@@ -405,7 +437,7 @@ t(8;22)(q24;q11) | IGL/MYC | 10 %
 
 ***=right
 
-![myctrans](http://www.nature.com/nature/journal/v421/n6921/images/nature01409-f3.2.jpg)
+<img src="http://www.nature.com/nature/journal/v421/n6921/images/nature01409-f3.2.jpg" style="width:400px">
 
 ---
 ## Kokkuvõte
@@ -417,3 +449,32 @@ t(8;22)(q24;q11) | IGL/MYC | 10 %
 ## Refs
 
 - Natalie Teich, Douglas R. Lowy, Janet W. Hartley, Wallace P. Rowe, Studies of the mechanism of induction of infectious murine leukemia virus from AKR mouse embryo cell lines by 5-iododeoxyuridine and 5-bromodeoxyuridine, Virology, Volume 51, Issue 1, January 1973, Pages 163-173, ISSN 0042-6822, [http://dx.doi.org/10.1016/0042-6822(73)90376-0.](http://www.sciencedirect.com/science/article/pii/0042682273903760)
+
+--- .segue .dark .nobackground
+
+## Lingid teistele loengutele
+
+--- &twocol 
+
+***=left 
+
+- [Sissejuhatav loeng](http://rpubs.com/tapa741/sissejuhatus)
+- [Vähitüübid](http://rpubs.com/tapa741/vahityybid)
+- [Onkoviirused](http://tpall.github.io/Onkoviirused)
+- [Onkogeenid](http://tpall.github.io/Onkogeenid)
+- [Retseptorid](http://tpall.github.io/Retseptorid)
+- [Signaalirajad](http://tpall.github.io/Signaalirajad)
+- [Tuumorsupressorgeenid](http://tpall.github.io/Tuumorsupressorid)
+- [Rakutsüklikontroll](http://tpall.github.io/Rakutsyklikontroll)
+
+
+***=right 
+
+- [p53 ja apoptoos](http://tpall.github.io/p53-ja-apoptoos)
+- [Immortalisatsioon](http://tpall.github.io/Immortalisatsioon)
+- [Tumorigenees](http://tpall.github.io/Tumorigenees)
+- [Genoomiterviklikkus](http://tpall.github.io/Genoomiterviklikkus)
+- [Mikrokeskkond](http://tpall.github.io/Mikrokeskkond)
+- [Metastaasid](http://tpall.github.io/Metastaas)
+- [Immuunsus](http://tpall.github.io/Immuunsus)
+- [Vähiravimid](http://tpall.github.io/Vahiravim)
