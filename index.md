@@ -162,16 +162,16 @@ Mehhanism: **insertsiooniline mutagenees**
 - HERV-K alamperekonnas on lookuseid millel on kõik ORF-id intaktsed, kuid viirust neilt ei toodeta ja neid pole ka vähkides leitud 
 
 ---
-## Mis tekitab vähki? Kartsenogeenid!
+## Mis tekitab vähki? Kartsinonogeenid!
 
-Kartsenogeenid toimivad mutageenidena ja nende toime-mehhanismiks on raku kasvukontrolli geenide muteerimine **onkogeenideks**.
+Kartsinogeenid toimivad mutageenidena ja nende toime-mehhanismiks on raku kasvukontrolli geenide muteerimine **onkogeenideks**.
 
 $$\color{green}{normaalne\; kasvu kontrolli\; geen} \quad \underrightarrow{\times\; \color{red}{mutageen}} \quad \color{yellow}{onkogeen} $$
 
 ![popeye](http://www.artrepublic.com/attachments/image/469/21469/21469_400xscale_c.jpeg "Pilt:artrepublic.com")
 
 --- &twocol
-## Keemilised kartsenogeenid
+## Keemilised kartsinonogeenid
 
 ***=left
 
@@ -181,7 +181,7 @@ $$\color{green}{normaalne\; kasvu kontrolli\; geen} \quad \underrightarrow{\time
 Katsusaburō Yamagiwa
 
 ***=right
-- 1915. aastal demonstreeris **pigi** kartsenogeense toime
+- 1915. aastal demonstreeris **pigi** kartsinogeense toime
 - pintseldas küüliku kõrvu igapäevaselt pigiga,
 - mitu kuud hiljem moodustus lamerakuline kartsinoom.
 
@@ -190,7 +190,7 @@ Katsusaburō Yamagiwa
 
 
 ---
-## Paradigma: kartsenogeenid toimivad mutageenidena
+## Paradigma: kartsinogeenid toimivad mutageenidena
 
 <q>Füüsilise või keemilise katserogeeni poolt transformeerunud rakud kannavad muteerunud geene - *onkogeene* - , mis rikuvad normaalse kasvukontrolli.</q>
 
@@ -222,7 +222,7 @@ Katsusaburō Yamagiwa
 <q>Kokkuvõte: onkogeenid tekivad ka viirustest sõltumatult.</q>
 
 --- &twocol bg:pink
-## Retroviiruste poolt aktiveeritud onkogeenid on samad mis mitte-viraalsete kartsenogeenide aktiveeritud
+## Retroviiruste poolt aktiveeritud onkogeenid on samad mis mitte-viraalsete kartsinogeenide aktiveeritud
 
 - Harvey roti sarkoomiviiruse H-ras proov hübridiseerub inimese kusepõie kartsinoomi DNA-ga transfekteeritud NIH3T3 rakkude genoomsele DNA-le ([Parada et al., 1982](http://www.ncbi.nlm.nih.gov/pubmed/6283357):  paremal).
 
