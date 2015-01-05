@@ -162,7 +162,7 @@ Mehhanism: **insertsiooniline mutagenees**
 - HERV-K alamperekonnas on lookuseid millel on kõik ORF-id intaktsed, kuid viirust neilt ei toodeta ja neid pole ka vähkides leitud 
 
 ---
-## Mis tekitab vähki? Kartsinonogeenid!
+## Mis tekitab vähki? Kartsinogeenid!
 
 Kartsinogeenid toimivad mutageenidena ja nende toime-mehhanismiks on raku kasvukontrolli geenide muteerimine **onkogeenideks**.
 
@@ -171,7 +171,7 @@ $$\color{green}{normaalne\; kasvu kontrolli\; geen} \quad \underrightarrow{\time
 ![popeye](http://www.artrepublic.com/attachments/image/469/21469/21469_400xscale_c.jpeg "Pilt:artrepublic.com")
 
 --- &twocol
-## Keemilised kartsinonogeenid
+## Keemilised kartsinogeenid
 
 ***=left
 
