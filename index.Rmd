@@ -273,6 +273,7 @@ Retikuloendotelioos | kalkun | rel | transkriptsioonifaktor | lümfoom
 - Onkogeenseteks mutatsioonideks on transkriptsiooni üles-regulatsioon ja amplifikatsioon
 
 ---
+
 ## ERBB
 
 - Kireldati algselt lindude erütroblastoosi tüvest R aastal 1935
@@ -286,10 +287,7 @@ Retikuloendotelioos | kalkun | rel | transkriptsioonifaktor | lümfoom
 - rinnakasvajates HER2/ERBB2/Neu lookuse amplifikatsioon 80% sagedusega *HER2-enriched* subtüübis
 
 --- &twocol
-<<<<<<< HEAD
 
-=======
->>>>>>> ad40a0838ae41f915d5ffa62c4912bcc99920f2b
 ## HER2 lookuse amplifikatsioon rinnakasvajates
 
 ***=left
