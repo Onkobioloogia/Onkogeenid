@@ -360,7 +360,7 @@ neer | 10 (H)
 ---
 ## Onkogeenide aktivatsioonimehhanismid
 
-- Regulatoorsed (amplifikats, deletsioon)
+- Regulatoorsed (protoonkogeeni amplifikatsioon, tuumorsupressorgeeni deletsioon)
 - Struktuursed (mutatsioonid)
 - Regulatoorsed $\times$ Struktuursed
 
