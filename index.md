@@ -226,30 +226,21 @@ Lindude erütroblastoos E26 | kana | ets | transkriptsioonifaktor | leukeemia
 Lindude müelotsütoom | kana | myc | transkriptsioonifaktor | erinevad vähid
 Retikuloendotelioos | kalkun | rel | transkriptsioonifaktor | lümfoom
 
----
-## MYC 
+---&twocol
+## erbB2/neu onkogeeni amplifikatsioon rinnakasvajates
 
-- Üks esimesi onkogeene mis avastati peale src-i, lindude müelotsütoomi viirus  MC29-st
-- Heterodimeerne transkriptsioonifaktor, peab dimeriseeruma teise bHLH TF-ga: 
-      - ainult MYC:MAX heterodimeer seob DNA-le ja aktiveerib transkriptsiooni
-- MAX seob MYC-perekonna valke: MYC, MYCN, MYCL
-- MYC TF seostub *E-box* järjestusele *CACGTG*
-- MYC vähid: Burkitti lümfoom, neuroblastoom
-- Onkogeenseteks mutatsioonideks on transkriptsiooni üles-regulatsioon ja amplifikatsioon
+1987. erbB2/neu amplifikatsioon määrab rinnavähi elulemuse ja relapsi.
 
----
+***=left
 
-## ERBB
+![erbb2amp](erbB2_amplif_Slamon1987.png)
 
-- Kireldati algselt lindude erütroblastoosi tüvest R aastal 1935
-    - R-tüvi sisaldas kahte rakulist onkogeeni erbA a erbB
-        - erbA osutus hiljem mitte obligatoorseks hormoonretseptoriks
-        - **erbB oli transformatsiooniks vajalik ja piisav**
-- Membranne türosiin-kinaas, homoloogne EGF retseptoriga 
-- Võrreldes EGFR-iga oli ErbB-l ekstratsellulaarne osa deleteerunud
-    - selline deletsioonimutant ei seo ligandi (EGF), kuid on konstitutiivselt aktiivne
-- inimesel glioblastoomides tavaline analoogne mutant **EGFRvIII**, kus on deleteerunud eksonid 2-7
-- rinnakasvajates HER2/ERBB2/Neu lookuse amplifikatsioon 80% sagedusega *HER2-enriched* subtüübis
+***=left
+
+![erbb2surv](erbB2_surv_Slamon1987.png)
+
+<footer class="source">Slamon DJ, Clark GM, Wong SG, Levin WJ, Ullrich A, McGuire WLHuman breast cancer: correlation of relapse and survival with amplification of the HER-2/neu oncogene. Science 235: 177-182.
+</footer>
 
 --- &twocol
 
