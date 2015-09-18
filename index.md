@@ -112,7 +112,7 @@ Mehhanism: **insertsiooniline mutagenees**
 --- bg:lavender
 ## Endogeensed proviirused hiirtel
 
-- BrdU aktiveerib Akr liini hiirtel endogeensed retroviirused (*MLV*)
+- BrdU aktiveerib Akr liini hiirtel endogeensed retroviirused (*MLV, murine leukemia virus*)
     - DNA metülatsioon eemaldatakse lookusest ja vaigistamine kaob
 - Akr liini hiirtel on kaks lookust kuhu on integreerunud replikatsiooni-kompetentne MLV
 - MLV produktsioon viib leukeemia tekkele.
