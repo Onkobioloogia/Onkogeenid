@@ -160,9 +160,11 @@ Katsusaburō Yamagiwa
 **Näitas, et kasvajaid on võimalik esile kutsuda**
 
 ---
-## Paradigma: kartsinogeenid toimivad mutageenidena
+## Kartsinogeenid toimivad mutageenidena
 
-<q>Füüsilise või keemilise katserogeeni poolt transformeerunud rakud kannavad muteerunud geene e. onkogeene, mis rikuvad normaalse kasvukontrolli.</q>
+- Tugevalt mutageensed ühendid on ka tugevalt kartsinogeensed (nt. aflatoksiin B1, benso(a)püreen). 
+
+- Füüsilise või keemilise katserogeeni poolt transformeerunud rakud kannavad muteerunud geene e. onkogeene, mis rikuvad normaalse kasvukontrolli.
 
 --- &twocol bg:pink
 ## DNA transfektsioon võimaldas isoleerida mitte-viraalsed onkogeenid
@@ -306,7 +308,6 @@ neer | 10 (H)
 - Regulatoorsed (protoonkogeeni amplifikatsioon, tuumorsupressorgeeni deletsioon)
 - Struktuursed (mutatsioonid)
 - Regulatoorsed $\times$ Struktuursed
-
 
 ![muts](http://www.nature.com/ng/journal/v45/n10/images/ng.2762-F2.jpg)
 
