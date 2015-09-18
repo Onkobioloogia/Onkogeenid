@@ -140,7 +140,7 @@ Mehhanism: **insertsiooniline mutagenees**
 - Kartsinogeenid toimivad mutageenidena ja nende toime-mehhanismiks on raku kasvukontrolli geenide muteerimine.
 - Sellisteks kasvukontrolli geenideks võivad olla normaalsed raku geenid, sarnaselt retroviirustest leitud proto-onkogeenidega.
 
-$$\color{green}{normaalne\; kasvu kontrolli\; geen} \underrightarrow{\times\; \color{red}{mutageen}} \color{yellow}{onkogeen}$$
+$$\color{green}{normaalne\; kasvu kontrolli\; geen} \times\;\color{red}{mutageen} \rightarrow \color{yellow}{onkogeen}$$
 
 ![popeye](http://www.artrepublic.com/attachments/image/469/21469/21469_400xscale_c.jpeg "Pilt:artrepublic.com")
 
