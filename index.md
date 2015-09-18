@@ -247,12 +247,19 @@ Retikuloendotelioos | kalkun | rel | transkriptsioonifaktor | lümfoom
 </footer>
 
 ---
-## Proto-onkogeenide aktivatsiooni
+## Proto-onkogeenide aktivatsioon
 
 Proto-onkogeenide aktivatsioon toimub läbi kahte tüüpi geneetiliste muutuste:
 
 - valguekspressiooni mõjutavad muutused
 - valgu struktuuri mõjutavad muutused
+
+---
+## Valguekspressiooni mõjutavad muutused
+
+- Normaalsetes rakkudes on proto-onkogeeni ekspressioon kas alla või ülesse reguleeritud omaenda promootori poolt vastusena füsioloogilistele signaalidele
+- Retroviiruse genoomi sattunud geene ekspresseeritakse aga konstantselt kõrgel tasemel sõltumata rakule mõjuvatest signaalidest, mis seda geeni varem reguleerisid
+- Näiteks, c-myc 
 
 --- &twocol
 
