@@ -172,7 +172,7 @@ Katsusaburō Yamagiwa
 
 - Tugevalt mutageensed ühendid on ka tugevalt kartsinogeensed (nt. aflatoksiin B1, benso(a)püreen). 
 
-- Füüsilise või keemilise katserogeeni poolt transformeerunud rakud kannavad muteerunud geene e. onkogeene, mis rikuvad normaalse kasvukontrolli.
+- Füüsilise või keemilise kartsinogeeni poolt transformeerunud rakud kannavad muteerunud geene e. onkogeene, mis rikuvad normaalse kasvukontrolli.
 
 --- &twocol bg:pink
 ## DNA transfektsioon võimaldas isoleerida mitte-viraalsed onkogeenid
