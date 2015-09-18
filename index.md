@@ -2,7 +2,7 @@
 title       : Rakulised onkogeenid
 subtitle    : Onkobioloogia
 author      : Taavi Päll
-job         : vanemteadur, VTAK
+job         : lektor, Tallinna Tehnikaülikool
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
@@ -19,6 +19,11 @@ img {
 </style>
 
 <style> .title-slide {
+  background-image:url(http://www.ubooks.pub/Books/B0/E10R1010/MAIN/images/image050.jpg); 
+  background-repeat: no-repeat; 
+  background-position: 20% 5%; 
+  background-size: 44%; 
+  background-color: #CBE7A5; /* ; ; */ }
   background-color: #FFFFFF; /*#CBE7A5 #EDE0CF; ; #CA9F9D*/
 }
 
@@ -68,14 +73,8 @@ strong {
 
 Mehhanism: **insertsiooniline mutagenees** 
 
----
-
-![retroviirused](http://www.jimmunol.org/content/192/4/1343/F2.large.jpg)
-
 ----
 ## Inimese tuumorviirused
-
-- Insertsioonilist mehhanismi pole
 
 - Kliiniliselt olulistest vähkidest on viirustega seotud  
 
@@ -86,18 +85,30 @@ Mehhanism: **insertsiooniline mutagenees**
 - Haruldasematest
   - **Burkitt'i lümfoom**, Epstein-Barri viirus *EBV* - 2.5% lümfoomidest
 
+---
+## Inimese vähid kus esineb kõrge viirusekspressioon
+
+![viirused](ncomms3513-f1.jpg)
+
+<footer class="source">Pilt: [The landscape of viral expression and host gene fusion and adaptation in human cancer](http://www.nature.com/ncomms/2013/131001/ncomms3513/full/ncomms3513.html)
+</footer>
 
 ---
-## Emakakaela kasvajad
+## Viiruse integratsioon on seotud märklaudgeenide ekspressiooni muutustega
 
-<img src="assets/fig/cervical.png" title="Emakakaela kasvajad (C53), esmaleiud vanusegrupiti, UK, 2009-2011" alt="Emakakaela kasvajad (C53), esmaleiud vanusegrupiti, UK, 2009-2011" style="display: block; margin: auto;" />
+![viirusexp](http://www.nature.com/ncomms/2013/131001/ncomms3513/images_article/ncomms3513-f5.jpg)
 
-<p style="font-size:12px">Bosch FX, Lorincz A, Muñoz N, et al. The causal relation between human papillomavirus and cervical cancer. J Clin Path 2002; 55(4):244-265.</p>
+<footer class="source">Pilt: [The landscape of viral expression and host gene fusion and adaptation in human cancer](http://www.nature.com/ncomms/2013/131001/ncomms3513/full/ncomms3513.html)
+</footer>
 
 ---
-## Expression levels of genes typically altered in cervical carcinomas with HPV integration
+## HPV16/18 põhjustab emakakaela kasvajaid
 
-![hpv](http://www.nature.com/ncomms/2013/131001/ncomms3513/images_article/ncomms3513-f5.jpg)
+<img src="assets/fig/cervical-1.png" title="Emakakaela kasvajad (C53), esmaleiud vanusegrupiti, UK, 2009-2011" alt="Emakakaela kasvajad (C53), esmaleiud vanusegrupiti, UK, 2009-2011" style="display: block; margin: auto;" />
+
+<footer class="source">Bosch FX, Lorincz A, Muñoz N, et al. The causal relation between human papillomavirus and cervical cancer. J Clin Path 2002; 55(4):244-265.
+</footer>
+
 
 ---&twocol
 ## Maksakasvajate intsidents langeb kokku HCV või HBV nakkusega
