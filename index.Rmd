@@ -73,18 +73,6 @@ strong {
 
 Mehhanism: **insertsiooniline mutagenees** 
 
-----
-## Inimese tuumorviirused
-
-- Kliiniliselt olulistest vähkidest on viirustega seotud  
-
-  - **emakakaela kasvajad**, ~100% nakatunud papilloomiviirusega *HPV 16/18* ja 
-        - kuues kõige sagedasem kasvaja naistel (16. mõlema soo kokkuvõttes)   
-  - **maksakartsinoomid**, B ja C hepatiit *HCV ja HBV* - 80% maksakasvajatest
-
-- Haruldasematest
-  - **Burkitt'i lümfoom**, Epstein-Barri viirus *EBV* - 2.5% lümfoomidest
-
 ---
 ## Inimese vähid kus esineb kõrge viirusekspressioon
 
