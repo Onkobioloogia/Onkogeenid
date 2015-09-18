@@ -269,7 +269,8 @@ Proto-onkogeenide aktivatsioon toimub läbi kahte tüüpi geneetiliste muutuste:
 
 ***=left
 
-- H-ras mis isoleeriti inimese kusepõie kartsinoomist ei olnud amplifitseerunud,
+- H-ras mis isoleeriti inimese kusepõie kartsinoomist,
+- H-ras ei olnud amplifitseerunud,
 - sekveneerimine näitas somaatilist G->T punktmutatsiooni, mis oli täiesti piisav et H-ras onkogeeniks muuta
 - Vähides esinev mutatsioon koodonites 12 või 61 (G12V) muudab Ras-i konstitutiivselt aktiivseks, rikkudes GAP (GTP-ase activating protein) valgu seostumise
 
@@ -281,9 +282,8 @@ Proto-onkogeenide aktivatsioon toimub läbi kahte tüüpi geneetiliste muutuste:
 </footer>
 
 ---
-
 ## Ras-i mutatsioonid
-# Ras geenid on vähkides ühed sagedamini muteerunud geenidest (TCGA andmetel läbilõikes 10%)
+Ras perekonna geenid on vähkides ühed sagedamini muteerunud geenidest
 
 Vähipaige/tüüp | % muteerunud RAS geeniga (homoloog)
 ---------|-------------------------
@@ -318,7 +318,6 @@ Kolm mehhanismi, kõik regulatoorsed:
 - proviiruse integratsioon (linnud)
 - geeni amplifikatsioon (inimene)
 - kromosomaalsed translokatsioonid
-
 
 --- &twocol
 
