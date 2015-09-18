@@ -310,6 +310,8 @@ neer | 10 (H)
 
 ![muts](http://www.nature.com/ng/journal/v45/n10/images/ng.2762-F2.jpg)
 
+<footer class="source">[Emerging landscape of oncogenic signatures across human cancers](http://www.nature.com/ng/journal/v45/n10/full/ng.2762.html)</footer>
+
 --- 
 
 ## c-MYC aktivatsiooni mehhanismid 
