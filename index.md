@@ -265,7 +265,7 @@ Proto-onkogeenide aktivatsioon toimub läbi kahte tüüpi geneetiliste muutuste:
 
 
 ---&twocol
-## valgu struktuuri mõjutavad muutused
+## Valgu struktuuri mõjutavad muutused
 
 ***=left
 
