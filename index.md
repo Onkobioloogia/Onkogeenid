@@ -229,13 +229,13 @@ Retikuloendotelioos | kalkun | rel | transkriptsioonifaktor | lümfoom
 ---&twocol
 ## erbB2/neu onkogeeni amplifikatsioon rinnakasvajates
 
-1987. erbB2/neu amplifikatsioon määrab rinnavähi elulemuse ja relapsi.
+- 1987. erbB2/neu amplifikatsioon määrab rinnavähi elulemuse ja relapsi.
 
 ***=left
 
 ![erbb2amp](erbB2_amplif_Slamon1987.png)
 
-***=left
+***=right
 
 ![erbb2surv](erbB2_surv_Slamon1987.png)
 
