@@ -233,13 +233,15 @@ Retikuloendotelioos | kalkun | rel | transkriptsioonifaktor | lümfoom
 
 ***=left
 
-![erbb2amp](erbB2_amplif_Slamon1987.png)
+<img src="erbB2_amplif_Slamon1987.png" style="width:300px;"/>
 
-![erbb2surv](erbB2_surv_Slamon1987.png)
+
+<img src="erbB2_surv_Slamon1987.png" style="width:300px;"/>
 
 ***=right
 
-![her2amp](http://o.quizlet.com/4hKzpWIbUoXVlJBgORKAdQ.png)
+
+<img src="http://o.quizlet.com/4hKzpWIbUoXVlJBgORKAdQ.png" style="width:400px;"/>
 
 <footer class="source">Slamon DJ, Clark GM, Wong SG, Levin WJ, Ullrich A, McGuire WLHuman breast cancer: correlation of relapse and survival with amplification of the HER-2/neu oncogene. Science 235: 177-182.
 </footer>
