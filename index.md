@@ -119,6 +119,10 @@ Mehhanism: **insertsiooniline mutagenees**
 
 ![ERV](http://www.jimmunol.org/content/192/4/1343/F1.large.jpg)
 
+<footer class="source">Pilt: ~5% hiire genoomist sisaldab endogeenseid retroviirus järjestusi. [Endogenous Retroviruses and the Development of Cancer](http://www.jimmunol.org/content/192/4/1343.full)
+</footer>
+
+
 --- bg:lavender
 ## Inimese ERV-d... FUBAR
 
