@@ -249,7 +249,7 @@ Retikuloendotelioos | kalkun | rel | transkriptsioonifaktor | lümfoom
 ***=right
 
 
-<img src="http://o.quizlet.com/4hKzpWIbUoXVlJBgORKAdQ.png" style="width:360px;"/>
+<img src="http://o.quizlet.com/4hKzpWIbUoXVlJBgORKAdQ.png" style="width:320px;"/>
 
 <footer class="source">Slamon DJ, Clark GM, Wong SG, Levin WJ, Ullrich A, McGuire WLHuman breast cancer: correlation of relapse and survival with amplification of the HER-2/neu oncogene. Science 235: 177-182.
 </footer>
