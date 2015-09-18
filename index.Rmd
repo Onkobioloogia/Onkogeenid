@@ -292,8 +292,7 @@ Proto-onkogeenide aktivatsioon toimub läbi kahte tüüpi geneetiliste muutuste:
 </footer>
 
 ---
-## Ras-i mutatsioonid
-Ras perekonna geenid on vähkides ühed sagedamini muteerunud geenidest
+## Ras perekonna geenid on vähkides ühed sagedamini muteerunud
 
 Vähipaige/tüüp | % muteerunud RAS geeniga (homoloog)
 ---------|-------------------------
