@@ -258,47 +258,27 @@ Proto-onkogeenide aktivatsioon toimub läbi kahte tüüpi geneetiliste muutuste:
 ## Valguekspressiooni mõjutavad muutused
 
 - Normaalsetes rakkudes on proto-onkogeeni ekspressioon kas alla või ülesse reguleeritud omaenda promootori poolt vastusena füsioloogilistele signaalidele
-- Retroviiruse genoomi sattunud geene ekspresseeritakse aga konstantselt kõrgel tasemel sõltumata rakule mõjuvatest signaalidest, mis seda geeni varem reguleerisid
-- Näiteks, c-myc 
 
---- &twocol
+- Retroviirusega seotud onkogeenide puhul läheb geen raku kontrolli alt viiruse kontrolli alla
+    - c-myc ekspressioon on füsioloogilistes tingimustes kasvufaktorite kontrolli all
+    - AMV (Avian Myeoloblastosis Virus) genoomis hakatakse aga v-myc järjestust konstitutiivselt kõrgelt ekspresseerima, sõltumata füsioloogilistest signaalidest mis seda geeni varem reguleerisid.
 
-## SRC
+
+---&twocol
+## valgu struktuuri mõjutavad muutused
 
 ***=left
 
-- Huvitaval kombel SRC-i inimese kasvajatest eriti ei leitud
-    - esineb ~12% kaugele arenenud käärsoole kartsinoomides *colorectal carcinoma*
-- Src-perekonna kinaasid *Src family kinases (SFK)* on (Src, Fyn, Yes, Lck, Lyn, Hck, Fgr and Blk)
-- Paradoksaalselt SRC näiteks rakkude jagunemist ei mõjuta, **toimib adhesioonides ja on seotud vähi invaseerumisega**.
+- H-ras mis isoleeriti inimese kusepõie kartsinoomist ei olnud amplifitseerunud,
+- sekveneerimine näitas somaatilist G->T punktmutatsiooni, mis oli täiesti piisav et H-ras onkogeeniks muuta
+- Vähides esinev mutatsioon koodonites 12 või 61 (G12V) muudab Ras-i konstitutiivselt aktiivseks, rikkudes GAP (GTP-ase activating protein) valgu seostumise
 
 ***=right
 
-![src](src.png)
+<img src="valgu struktuuri mõjutavad muutused" style="width:300px;"/>
 
-
---- .segue .dark .nobackground
-
-## Inimese proto-onkogeenide aktivatsioonimehhanismid
-
----
-## Viirustes
-
-- Retroviirusega seotud onkogeenide puhul läheb geen raku kontrolli alt viiruse kontrolli alla
-    - myc ekspressioon on füsioloogilistes tingimustes kasvufaktorite kontrolli all
-    - AMV (*Avian Myeoloblastosis Virus*) genoomis hakatakse aga myc järjestust **konstitutiivselt ekspresseerima**.
-
-
----
-
-## Mutatsioonid
-
-Lisaks amplifikatsioonile ja üle-ekspressioonile on ka **mutatsioonid**
-
-- H-ras mis isoleeriti inimese kusepõie kartsinoomist ei olnud amplifitseerunud,
-- sekveneerimine näitas somaatilist G->T punktmutatsiooni, mis oli täiesti piisav et H-ras onkogeeniks muuta
-- Vähides esinev mutatsioon koodonites 12 või 61 (G12V) muudab Ras-i konstitutiivselt aktiivseks, rikkudes GAP (*GTP-ase activating protein*) valgu seostumise
-
+<footer class="source">CLIFFORD J. TABIN, SCOTT M. BRADLEY, CORNELIA I. BARGMANN, ROBERT A. WEINBERG, ALEX G. PAPAGEORGE, EDWARD M. SCOLNICK, RAVI DHAR, DOUGLAS R. LOWY & ESTHER H. CHANG. Mechanism of activation of a human oncogene. Nature 300, 143 - 149 (11 November 1982); doi:10.1038/300143a0
+</footer>
 
 ---
 
