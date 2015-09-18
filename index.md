@@ -335,8 +335,7 @@ Kahte tüüpi amplifikatsioone
 - lisaks neuroblastoomidele ka teistes neuroektodermaal kasvajates, astrotsütoomid, glioomid, ka väikse-rakulises kopsukasvajas.
 
 ***=right
-
-# HSR ja *double minutes* (nooled)
+*HSR* ja *double minutes* (nooled)
 
 <img src="http://streaming.cineca.it/sestri/courses/cancgen/img/Maris/image053.jpg" style="width:400px;">
 
@@ -350,9 +349,7 @@ Kahte tüüpi amplifikatsioone
 
 ***=right
 
-# Olulised korduvad fokaalsed koopiaarvu muutused (SCNA)
-
-Top 10:
+Top 10 korduvad koopiaarvu muutused (SCNA):
 
 Geen | Funktsioon
 -----|-----------
@@ -369,13 +366,12 @@ MDM2 | p53 E3 ubikvitiini ligaas
 </footer>
 
 --- &twocol
-## MYC translokatsioon
+## MYC translokatsioon Burkitti lümfoomides
 
 MYC aktivatsioon translokatsioonilise mehhanismi teel
 
 ***=left
 
-- Burkitti lümfoomides
 - c-myc geene translokeeritakse immunoglobuliini lookusesse kõigis BL.
 - Immunoglobulin raske ahel IgH 80%,
 $\kappa$ või $\lambda$ kerge ahel, kumbagi 10%.
