@@ -254,6 +254,14 @@ Retikuloendotelioos | kalkun | rel | transkriptsioonifaktor | lümfoom
 <footer class="source">Slamon DJ, Clark GM, Wong SG, Levin WJ, Ullrich A, McGuire WLHuman breast cancer: correlation of relapse and survival with amplification of the HER-2/neu oncogene. Science 235: 177-182.
 </footer>
 
+---
+## Proto-onkogeenide aktivatsiooni
+
+Proto-onkogeenide aktivatsioon toimub läbi kahte tüüpi geneetiliste muutuste:
+
+- valguekspressiooni mõjutavad muutused
+- valgu struktuuri mõjutavad muutused
+
 --- &twocol
 
 ## SRC
