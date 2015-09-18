@@ -132,14 +132,15 @@ Mehhanism: **insertsiooniline mutagenees**
     - tugevasti muteerunud, 
     - mittefunktsionaalsed,
     - läbinud geenitriivi ja fikseerunud (populatsioonis on kõigil identne lookus).
-- HERV-K alamperekonnas on lookuseid millel on kõik ORF-id intaktsed, kuid viirust neilt ei toodeta ja neid pole ka vähkides leitud 
+- HERV-K alamperekonnas on lookuseid millel on kõik ORF-id intaktsed, kuid viirust neilt ei toodeta ja neid pole ka vähkides leitud.
 
 ---
-## Mis tekitab vähki? Kartsinogeenid!
+## Kui mitte viirused, siis mis tekitab vähki? Kartsinogeenid!
 
-Kartsinogeenid toimivad mutageenidena ja nende toime-mehhanismiks on raku kasvukontrolli geenide muteerimine **onkogeenideks**.
+- Kartsinogeenid toimivad mutageenidena ja nende toime-mehhanismiks on raku kasvukontrolli geenide muteerimine.
+- Sellisteks kasvukontrolli geenideks võivad olla normaalsed raku geenid, sarnaselt retroviirustest leitud proto-onkogeenidega.
 
-$$\color{green}{normaalne\; kasvu kontrolli\; geen} \quad \underrightarrow{\times\; \color{red}{mutageen}} \quad \color{yellow}{onkogeen} $$
+$$\color{green}{normaalne\; kasvu kontrolli\; geen} \underrightarrow{\times\; \color{red}{mutageen}} \color{yellow}{onkogeen}$$
 
 ![popeye](http://www.artrepublic.com/attachments/image/469/21469/21469_400xscale_c.jpeg "Pilt:artrepublic.com")
 
@@ -160,15 +161,12 @@ Katsusaburō Yamagiwa
 
 **Näitas, et kasvajaid on võimalik esile kutsuda**
 
-
-
 ---
 ## Paradigma: kartsinogeenid toimivad mutageenidena
 
 <q>Füüsilise või keemilise katserogeeni poolt transformeerunud rakud kannavad muteerunud geene - *onkogeene* - , mis rikuvad normaalse kasvukontrolli.</q>
 
 --- &twocol bg:pink
-
 ## DNA transfektsioon võimaldas isoleerida mitte-viraalsed onkogeenid
 
 ***=left
