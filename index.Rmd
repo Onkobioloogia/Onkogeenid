@@ -148,8 +148,6 @@ qplot(x=Age.Range,y=Female.Rates, data=cc, stat="identity", geom="bar", fill="re
 - Kartsinogeenid toimivad mutageenidena ja nende toime-mehhanismiks on raku kasvukontrolli geenide muteerimine.
 - Sellisteks kasvukontrolli geenideks võivad olla normaalsed raku geenid, sarnaselt retroviirustest leitud proto-onkogeenidega.
 
-$$\color{green}{normaalne\; kasvu kontrolli\; geen} \times\;\color{red}{mutageen} \rightarrow \color{yellow}{onkogeen}$$
-
 ![popeye](http://www.artrepublic.com/attachments/image/469/21469/21469_400xscale_c.jpeg "Pilt:artrepublic.com")
 
 --- &twocol
@@ -172,14 +170,14 @@ Katsusaburō Yamagiwa
 ---
 ## Paradigma: kartsinogeenid toimivad mutageenidena
 
-<q>Füüsilise või keemilise katserogeeni poolt transformeerunud rakud kannavad muteerunud geene - *onkogeene* - , mis rikuvad normaalse kasvukontrolli.</q>
+<q>Füüsilise või keemilise katserogeeni poolt transformeerunud rakud kannavad muteerunud geene - onkogeene - , mis rikuvad normaalse kasvukontrolli.</q>
 
 --- &twocol bg:pink
 ## DNA transfektsioon võimaldas isoleerida mitte-viraalsed onkogeenid
 
 ***=left
 
-- Hiire C3HT1/2 rakke transformeeriti *3-Methylcholanthrene* (3-ME, MCA) abil,
+- Hiire C3HT1/2 rakke transformeeriti 3-metüülkolantreeni (3-ME, MCA) abil,
 - transformeerunud rakkudest isoleeriti genoomne DNA,
 - eraldatud DNA transformeeriti mitte-tumorigeensetesse NIH3T3 rakkudesse,
 - isoleeriti kolooniad mis olid transformeerunud ja tumorigeensed.
@@ -193,9 +191,11 @@ Katsusaburō Yamagiwa
 </footer>
 
 --- bg:pink
+
 ## 1 onkogeen = 1 transformeerunud rakk/koloonia
 
-- Transformeerunud rakkude genoomse DNA fragmentide **transfekteerimisel läheb rakku sisse 0.1% doonor DNA-d**.
+- Transformeerunud rakkude genoomse DNA fragmentide transfekteerimisel läheb rakku sisse 0.1% doonor DNA-d (10^{-3})
+
 - Tõenäosus, et kaks lingitud geeni satuvad ühte rakku on $$10^{-3} \times 10^{-3} = 10^{-6} $$ 
 
 <q>Kokkuvõte: onkogeenid tekivad ka viirustest sõltumatult.</q>
