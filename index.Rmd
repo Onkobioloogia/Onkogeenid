@@ -13,8 +13,8 @@ knit        : slidify::knit2slides
 <!-- Limit image width and height -->
 <style type="text/css">
 img {     
-  max-height: 480px;     
-  max-width: 600px; 
+  max-height: 960px;     
+  max-width: 1200px; 
 }
 </style>
 
