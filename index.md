@@ -110,36 +110,6 @@ Mehhanism: **insertsiooniline mutagenees**
 </footer>
 
 
----&twocol
-## Maksakasvajate intsidents langeb kokku HCV või HBV nakkusega
-
-***=left
-
-- Maades kus B ja C heptiit on laialt levinud, on ka  HCC intsidents õrge.
-- This finding is consistent with the fact that about three-quarters of HCCs are attributed to chronic HBV and HCV infections.
-
-***=right
-
-<img src="http://img.medscape.com/article/724/651/724651-figure-1.jpg" style="width:400px;"/>
-
---- &twocol
-
-## Malaaria võimaldab EBV-l 'kapist välja' tulla 
-# Malaaria haigestumus kattub mitte-Hodkinsi lümfoomi haigestumusega
-
-***=left
-
-# Malaaria Aafrikas
-
-<img src="http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2012/2/2/1328205987540/Malaria-graphic-008.jpg" style="width:460px;"/>
-
-
-***=right
-
-# NHL Aafrikas
-
-<img src="world.png" style="width:400px;"/>
-
 --- .segue .dark .nobackground
 ## Kuidas seletada vähi teket inimesel
 
