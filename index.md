@@ -186,7 +186,7 @@ Katsusaburō Yamagiwa
 
 ## 1 onkogeen = 1 transformeerunud rakk/koloonia
 
-- Transformeerunud rakkude genoomse DNA fragmentide transfekteerimisel läheb rakku sisse 0.1% doonor DNA-d (10^{-3})
+- Transformeerunud rakkude genoomse DNA fragmentide transfekteerimisel läheb rakku sisse 0.1% doonor DNA-d ($$10^{-3}$$)
 
 - Tõenäosus, et kaks lingitud geeni satuvad ühte rakku on $$10^{-3} \times 10^{-3} = 10^{-6} $$ 
 
