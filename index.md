@@ -143,7 +143,7 @@ Mehhanism: **insertsiooniline mutagenees**
 ![popeye](http://www.artrepublic.com/attachments/image/469/21469/21469_400xscale_c.jpeg "Pilt:artrepublic.com")
 
 --- &twocol
-## Keemilised kartsinogeenid
+## Keemilised kartsinogeenid kutsuvad esile kasvajaid
 
 ***=left
 
@@ -153,11 +153,9 @@ Mehhanism: **insertsiooniline mutagenees**
 Katsusaburō Yamagiwa
 
 ***=right
-- 1915. aastal demonstreeris **pigi** kartsinogeense toime
+- 1915. aastal demonstreeris pigi kartsinogeense toime
 - pintseldas küüliku kõrvu igapäevaselt pigiga,
 - mitu kuud hiljem moodustus lamerakuline kartsinoom.
-
-**Näitas, et kasvajaid on võimalik esile kutsuda**
 
 ---
 ## Kartsinogeenid toimivad mutageenidena
