@@ -387,7 +387,16 @@ t(8;22)(q24;q11) | IGL/MYC | 10 %
 ---
 ## EGFR ligand-sõltumatu signalisatsioon
 
+Mao- ja rinna kartsinoomides, glioblastoomides
+
 ![EGFRvIII](https://www.google.ee/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0CAcQjRxqFQoTCMvYx9zGh8gCFQGiLAodT-MOyw&url=https%3A%2F%2Fislaslab.wikispaces.com%2FBiomarkers%2B%25E2%2580%2594%2BThe%2BFuture%2Bof%2BCancer%2BDetection.&psig=AFQjCNEq0gf0hDnauBoLqA6ZdpNMbxrAeA&ust=1442905110171158)
+
+---
+## BCR-ABL translokatsioon
+
+Leukeemiates ja lümfoomides
+
+![bcrabl](https://www.google.ee/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0CAcQjRxqFQoTCJCIk_DHh8gCFYvdLAodTJoHvg&url=http%3A%2F%2Fwww.medscape.com%2Fviewarticle%2F580426_2&bvm=bv.103073922,d.bGg&psig=AFQjCNGQng1Gj-Dlj5ylnuObXKdMGvMXrQ&ust=1442905355317641)
 
 
 ---
