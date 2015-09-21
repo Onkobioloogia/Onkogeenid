@@ -385,6 +385,12 @@ t(8;22)(q24;q11) | IGL/MYC | 10 %
 <img src="http://www.nature.com/nature/journal/v421/n6921/images/nature01409-f3.2.jpg" style="width:400px">
 
 ---
+## EGFR ligand-sõltumatu signalisatsioon
+
+![EGFRvIII](https://www.google.ee/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0CAcQjRxqFQoTCMvYx9zGh8gCFQGiLAodT-MOyw&url=https%3A%2F%2Fislaslab.wikispaces.com%2FBiomarkers%2B%25E2%2580%2594%2BThe%2BFuture%2Bof%2BCancer%2BDetection.&psig=AFQjCNEq0gf0hDnauBoLqA6ZdpNMbxrAeA&ust=1442905110171158)
+
+
+---
 ## Kokkuvõte
 
 - **Onkogeen** on geen mis võib potentsiaalselt vähki tekitada ja vähkides on nad muteerunud või ekspresseeritud ebanormaalselt kõrgel tasemel.
