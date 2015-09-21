@@ -389,7 +389,7 @@ t(8;22)(q24;q11) | IGL/MYC | 10 %
 
 Mao- ja rinna kartsinoomides, glioblastoomides
 
-![EGFRvIII](http://flylib.com/books/en/3.98.1.118/1/)
+![EGFRvIII](http://www.cell.com/cms/attachment/2009273090/2032282083/gr1.jpg)
 
 ---
 ## BCR-ABL translokatsioon
