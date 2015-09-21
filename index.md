@@ -117,7 +117,7 @@ Mehhanism: **insertsiooniline mutagenees**
 - Akr liini hiirtel on kaks lookust kuhu on integreerunud replikatsiooni-kompetentne MLV
 - MLV produktsioon viib leukeemia tekkele.
 
-![ERV](http://www.jimmunol.org/content/192/4/1343/F1.large.jpg)
+<img src="http://www.jimmunol.org/content/192/4/1343/F1.large.jpg" style="width:460px;" \>
 
 <footer class="source">Pilt: ~5% hiire genoomist sisaldab endogeenseid retroviirus järjestusi. [Endogenous Retroviruses and the Development of Cancer](http://www.jimmunol.org/content/192/4/1343.full)
 </footer>
