@@ -272,7 +272,7 @@ Proto-onkogeenide aktivatsioon toimub läbi kahte tüüpi geneetiliste muutuste:
 - H-ras isoleeriti inimese kusepõie kartsinoomist,
 - H-ras ei olnud amplifitseerunud!,
 - sekveneerimine näitas somaatilist G->T punktmutatsiooni, mis oli täiesti piisav et H-ras onkogeeniks muuta
-- Vähides esinev mutatsioon koodonites 12 või 61 (G12V) muudab Ras-i konstitutiivselt aktiivseks, rikkudes GAP (GTP-ase activating protein) valgu seostumise
+- Vähides esinev mutatsioon koodonites 12 või 61 (G12V) muudab Ras-i konstitutiivselt aktiivseks rikkudes Ras-i GTPasse aktiivsuse
 
 ***=right
 
