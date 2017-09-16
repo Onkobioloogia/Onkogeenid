@@ -24,7 +24,7 @@ class: inverse, middle, center
 
 ---
 
-### Lihtsad retroviirused transformeerivad kana ja hiire rakke
+## Lihtsad retroviirused transformeerivad kana ja hiire rakke
 Mehhanism: insertsiooniline mutagenees
 
 .pull-left[
@@ -125,7 +125,8 @@ ggplot(cervical_cancer, aes(x = Age.Range, y = Female.Rates, color = Riik)) +
   ylab("Intsidents 100,000 kohta (naised)") + 
   xlab("Vanusegrupid") +
   ggtitle("Emakakaela kasvajad (C53)\nUK: 2009-2011, Eesti: 2000-2014 ") + 
-  theme(axis.text.x  = element_text(angle = 90, vjust = 0.5))
+  theme(axis.text.x  = element_text(angle = 90, vjust = 0.5)) +
+  viridis::scale_color_viridis(discrete = TRUE)
 
 ```
 
@@ -139,7 +140,8 @@ class: inverse, middle, center
 
 ---
 
-# Hüpotees: endogeensed proviirused
+## Endogeensed proviirused
+Kas inimese vähkide eest võiksid vastutada genoomis olevad endogeensed retroviirused?
 
 - Lähtudes retroviiruste elutsüklist, integreeruvad genoomi **endogeensete retroviirustena**,
 - satuvad idutee rakkudesse ja muutuvad pärilikuks,
@@ -148,7 +150,7 @@ class: inverse, middle, center
 
 ---
 
-# Endogeensed proviirused hiirtel
+## Endogeensed proviirused hiirtel
 
 - BrdU aktiveerib Akr liini hiirtel endogeensed retroviirused (*MLV, murine leukemia virus*)
     - DNA metülatsioon eemaldatakse lookusest ja vaigistamine kaob
@@ -199,12 +201,14 @@ Pilt: artrepublic.com
 
 ---
 
-# Keemilised kartsinogeenid kutsuvad esile kasvajaid
+## Keemilised kartsinogeenid kutsuvad esile kasvajaid
 
 .pull-left[
 
-![KY](http://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Yamagiwa.JPG/300px-Yamagiwa.JPG)
-Katsusaburō Yamagiwa
+```{r,out.height=320, fig.cap="Katsusaburō Yamagiwa"}
+knitr::include_graphics("http://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Yamagiwa.JPG/300px-Yamagiwa.JPG")
+```
+
 ]
 
 
@@ -246,7 +250,7 @@ knitr::include_graphics("http://www.ncbi.nlm.nih.gov/books/NBK190612/bin/ch6fu3.
 
 ---
 
-# 1 onkogeen = 1 transformeerunud rakk/koloonia
+## 1 onkogeen = 1 transformeerunud rakk/koloonia
 
 - Transformeerunud rakkude genoomse DNA fragmentide transfekteerimisel läheb rakku sisse 0.1% doonor DNA-d.
 - Tõenäosus, et kaks lingitud geeni satuvad ühte rakku on $$10^{-3} \times 10^{-3} = 10^{-6} $$ 
@@ -257,13 +261,13 @@ Mida see tähendab?
 
 ---
 
-# Retroviiruste poolt aktiveeritud onkogeenid on samad mis mitte-viraalsete kartsinogeenide aktiveeritud
+## Retroviiruste poolt aktiveeritud onkogeenid on samad mis mitte-viraalsete kartsinogeenide aktiveeritud
 
 - Harvey roti sarkoomiviiruse H-ras proov hübridiseerub inimese kusepõie kartsinoomi DNA-ga transfekteeritud NIH3T3 rakkude genoomsele DNA-le ([Parada et al., 1982](http://www.ncbi.nlm.nih.gov/pubmed/6283357):  paremal).
 
 .pull-left[
 
-```{r, out.width=200}
+```{r, out.width=240}
 knitr::include_graphics("http://missinglink.ucsf.edu/lm/molecularmethods/images/blotting_clip_image001.gif")
 ```
 
@@ -300,25 +304,24 @@ kableExtra::kable_styling(tab, "striped", position = "left", font_size = 12)
 ```
 
 
-
 ---
 
-# erbB2/neu onkogeeni amplifikatsioon rinnakasvajates
+## erbB2/neu onkogeeni amplifikatsioon rinnakasvajates
 
 - $1987.$ a. kirjeldati, seos erbB2/neu geeni amplifikatsiooni ja rinnavähi elulemuse ning relapsi vahel.
 
 .pull-left[
 
-```{r}
-knitr::include_graphics("erbB2_amplif_Slamon1987.png")
-knitr::include_graphics("erbB2_surv_Slamon1987.png")
+```{r, out.width=200}
+knitr::include_graphics("assets/img/erbB2_amplif_Slamon1987.png")
+knitr::include_graphics("assets/img/erbB2_surv_Slamon1987.png")
 ```
 
 ]
 
 .pull-right[
 
-```{r}
+```{r, out.width=260}
 knitr::include_graphics("http://o.quizlet.com/4hKzpWIbUoXVlJBgORKAdQ.png")
 ```
 
@@ -330,8 +333,8 @@ Slamon DJ, Clark GM, Wong SG, Levin WJ, Ullrich A, McGuire WLHuman breast cancer
 
 
 ---
-## Proto-onkogeenide aktivatsioon
 
+## Proto-onkogeenide aktivatsioon
 Proto-onkogeenide aktivatsioon toimub läbi kahte tüüpi geneetiliste muutuste:
 
 - valguekspressiooni mõjutavad muutused
@@ -349,7 +352,7 @@ Proto-onkogeenide aktivatsioon toimub läbi kahte tüüpi geneetiliste muutuste:
 
 ---
 
-# Valgu struktuuri mõjutavad muutused
+## Valgu struktuuri mõjutavad muutused
 
 .pull-left[
 - H-ras isoleeriti inimese kusepõie kartsinoomist,
@@ -395,7 +398,7 @@ kableExtra::kable_styling(tab, "striped", position = "left", font_size = 12)
 
 ---
 
-# Onkogeenide aktivatsioonimehhanismid
+## Onkogeenide aktivatsioonimehhanismid
 
 - Regulatoorsed (protoonkogeeni amplifikatsioon, tuumorsupressorgeeni deletsioon)
 - Struktuursed (mutatsioonid)
@@ -419,7 +422,7 @@ Kolm mehhanismi, kõik regulatoorsed:
 
 ---
 
-# N-MYC amplifikatsioon pärilikes neuroblastoomides
+## N-MYC amplifikatsioon pärilikes neuroblastoomides
 
 .pull-left[
 
@@ -442,11 +445,11 @@ knitr::include_graphics("http://streaming.cineca.it/sestri/courses/cancgen/img/M
 
 ---
 
-# Sagedamini amplifitseerunud genoomipiirkonnad
+## Sagedamini amplifitseerunud genoomipiirkonnad
 
 .pull-left[
 
-```{r, out.width=400}
+```{r, out.width=240}
 knitr::include_graphics("http://www.nature.com/ng/journal/v45/n10/images/ng.2760-F3.jpg")
 ```
 
@@ -475,7 +478,7 @@ kableExtra::kable_styling(tab, "striped", position = "left", font_size = 12)
 ]
 ---
 
-# MYC translokatsioon Burkitti lümfoomides
+## MYC translokatsioon Burkitti lümfoomides
 MYC aktivatsioon translokatsioonilise mehhanismi teel
 
 .pull-left[
@@ -504,7 +507,7 @@ knitr::include_graphics("http://www.nature.com/nature/journal/v421/n6921/images/
 ]
 ---
 
-# EGFR ligand-sõltumatu signalisatsioon
+## EGFR ligand-sõltumatu signalisatsioon
 
 Mao- ja rinna kartsinoomides, glioblastoomides
 
@@ -514,18 +517,17 @@ knitr::include_graphics("http://www.cell.com/cms/attachment/2009273090/203228208
 
 ---
 
-# BCR-ABL translokatsioon
-
+## BCR-ABL translokatsioon
 Leukeemiates ja lümfoomides
 
-```{r}
+```{r, out.width=400}
 knitr::include_graphics("http://img.medscape.com/fullsize/migrated/580/426/era580426.fig1.gif")
 ```
 
 ---
 class: middle
 
-# Kokkuvõte
+## Kokkuvõte
 
 - **Onkogeen** on geen mis võib potentsiaalselt vähki tekitada ja vähkides on nad muteerunud või ekspresseeritud ebanormaalselt kõrgel tasemel.
 - **Proto-onkogeen** on normaalne geen mis võib muutuda onkogeeniks.
