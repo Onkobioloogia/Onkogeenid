@@ -24,8 +24,8 @@ class: inverse, middle, center
 
 ---
 
-## Lihtsad retroviirused transformeerivad kana ja hiire rakke
-Mehhanism: insertsiooniline mutagenees
+## Lihtsad retroviirused
+transformeerivad kana ja hiire rakke läbi insertsioonilise mutageneesi
 
 .pull-left[
 
