@@ -307,20 +307,27 @@ kableExtra::kable_styling(tab, "striped", position = "left", font_size = 12)
 
 - $1987.$ a. kirjeldati, seos erbB2/neu geeni amplifikatsiooni ja rinnavähi elulemuse ning relapsi vahel.
 
-.pull-left
+.pull-left[
 
-<img src="erbB2_amplif_Slamon1987.png" style="width:260px;"/>
+```{r}
+knitr::include_graphics("erbB2_amplif_Slamon1987.png")
+knitr::include_graphics("erbB2_surv_Slamon1987.png")
+```
 
+]
 
-<img src="erbB2_surv_Slamon1987.png" style="width:260px;"/>
+.pull-right[
 
-.pull-right
+```{r}
+knitr::include_graphics("http://o.quizlet.com/4hKzpWIbUoXVlJBgORKAdQ.png")
+```
 
+]
 
-<img src="http://o.quizlet.com/4hKzpWIbUoXVlJBgORKAdQ.png" style="width:320px;"/>
+.footer[
+Slamon DJ, Clark GM, Wong SG, Levin WJ, Ullrich A, McGuire WLHuman breast cancer: correlation of relapse and survival with amplification of the HER-2/neu oncogene. Science 235: 177-182.
+]
 
-<footer class="source">Slamon DJ, Clark GM, Wong SG, Levin WJ, Ullrich A, McGuire WLHuman breast cancer: correlation of relapse and survival with amplification of the HER-2/neu oncogene. Science 235: 177-182.
-</footer>
 
 ---
 ## Proto-onkogeenide aktivatsioon
@@ -342,14 +349,14 @@ Proto-onkogeenide aktivatsioon toimub läbi kahte tüüpi geneetiliste muutuste:
 
 ---
 
-## Valgu struktuuri mõjutavad muutused
+# Valgu struktuuri mõjutavad muutused
 
 .pull-left[
-
 - H-ras isoleeriti inimese kusepõie kartsinoomist,
 - H-ras ei olnud amplifitseerunud!,
 - sekveneerimine näitas somaatilist G->T punktmutatsiooni, mis oli täiesti piisav et H-ras onkogeeniks muuta
 - Vähides esinev mutatsioon koodonites 12 või 61 (G12V) muudab Ras-i konstitutiivselt aktiivseks rikkudes Ras-i GTPasse aktiivsuse
+
 ]
 
 .pull-right[
@@ -398,7 +405,8 @@ kableExtra::kable_styling(tab, "striped", position = "left", font_size = 12)
 knitr::include_graphics("http://www.nature.com/ng/journal/v45/n10/images/ng.2762-F2.jpg")
 ```
 
-.footer[[Emerging landscape of oncogenic signatures across human cancers](http://www.nature.com/ng/journal/v45/n10/full/ng.2762.html)
+.footer[
+[Emerging landscape of oncogenic signatures across human cancers](http://www.nature.com/ng/journal/v45/n10/full/ng.2762.html)
 ]
 ---
 
@@ -528,8 +536,9 @@ class: inverse, middle, center
 # Lingid teistele loengutele
 
 ---
+class: middle, inverse
 
-.pull-left [
+.pull-left[
 
 - [Sissejuhatav loeng](http://tpall.github.io/sissejuhatus)
 - [Vähitüübid](http://tpall.github.io/Vahityybid)
@@ -541,7 +550,7 @@ class: inverse, middle, center
 - [Rakutsüklikontroll](http://tpall.github.io/Rakutsyklikontroll)
 ]
 
-.pull-right [
+.pull-right[
 
 - [p53 ja apoptoos](http://tpall.github.io/p53-ja-apoptoos)
 - [Immortalisatsioon](http://tpall.github.io/Immortalisatsioon)
