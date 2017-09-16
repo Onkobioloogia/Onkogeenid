@@ -187,7 +187,7 @@ class:inverse, middle, center
 ## Kui mitte viirused, siis mis tekitab vähki? Kartsinogeenid!
 
 - Kartsinogeenid toimivad mutageenidena ja nende toime-mehhanismiks on raku kasvukontrolli geenide muteerimine.
-- Sellisteks kasvukontrolli geenideks võivad olla normaalsed raku geenid, sarnaselt retroviirustest leitud proto-onkogeenidega.
+- Sellisteks kasvukontrolli geenideks võivad olla normaalsed raku geenid, sarnaselt retroviirustest leitud protoonkogeenidega.
 
 ```{r}
 knitr::include_graphics("http://www.artrepublic.com/attachments/image/469/21469/21469_400xscale_c.jpeg")
@@ -334,8 +334,8 @@ Slamon DJ, Clark GM, Wong SG, Levin WJ, Ullrich A, McGuire WLHuman breast cancer
 
 ---
 
-## Proto-onkogeenide aktivatsioon
-Proto-onkogeenide aktivatsioon toimub läbi kahte tüüpi geneetiliste muutuste:
+## Protoonkogeenide aktivatsioon
+Protoonkogeenide aktivatsioon toimub läbi kahte tüüpi geneetiliste muutuste:
 
 - valguekspressiooni mõjutavad muutused
 - valgu struktuuri mõjutavad muutused
@@ -343,7 +343,7 @@ Proto-onkogeenide aktivatsioon toimub läbi kahte tüüpi geneetiliste muutuste:
 ---
 ## Valguekspressiooni mõjutavad muutused
 
-- Normaalsetes rakkudes on proto-onkogeeni ekspressioon kas alla või ülesse reguleeritud omaenda promootori poolt vastusena füsioloogilistele signaalidele
+- Normaalsetes rakkudes on protoonkogeeni ekspressioon kas alla või ülesse reguleeritud omaenda promootori poolt vastusena füsioloogilistele signaalidele
 
 - Retroviirusega seotud onkogeenide puhul läheb geen raku kontrolli alt viiruse kontrolli alla
     - c-myc ekspressioon on füsioloogilistes tingimustes kasvufaktorite kontrolli all
@@ -530,7 +530,7 @@ class: middle
 ## Kokkuvõte
 
 - **Onkogeen** on geen mis võib potentsiaalselt vähki tekitada ja vähkides on nad muteerunud või ekspresseeritud ebanormaalselt kõrgel tasemel.
-- **Proto-onkogeen** on normaalne geen mis võib muutuda onkogeeniks.
+- **Protoonkogeen** on normaalne geen mis võib muutuda onkogeeniks.
 
 ---
 class: inverse, middle, center
@@ -542,14 +542,14 @@ class: middle, inverse
 
 .pull-left[
 
-- [Sissejuhatav loeng](http://tpall.github.io/sissejuhatus)
-- [Vähitüübid](http://tpall.github.io/Vahityybid)
+- [Sissejuhatav loeng](http://tpall.github.io/onkobioloogia)
 - [Onkoviirused](http://tpall.github.io/Onkoviirused)
 - [Onkogeenid](http://tpall.github.io/Onkogeenid)
 - [Retseptorid](http://tpall.github.io/Retseptorid)
 - [Signaalirajad](http://tpall.github.io/Signaalirajad)
 - [Tuumorsupressorgeenid](http://tpall.github.io/Tuumorsupressorid)
 - [Rakutsüklikontroll](http://tpall.github.io/Rakutsyklikontroll)
+
 ]
 
 .pull-right[
@@ -561,5 +561,9 @@ class: middle, inverse
 - [Mikrokeskkond](http://tpall.github.io/Mikrokeskkond)
 - [Metastaasid](http://tpall.github.io/Metastaas)
 - [Immuunsus](http://tpall.github.io/Immuunsus)
-- [Vähiravimid](http://tpall.github.io/Vahiravim)
+- [Vahiravim](http://tpall.github.io/Vahiravim) 
 ]
+
+
+GitHub repo: https://github.com/tpall/Onkogeenid
+
