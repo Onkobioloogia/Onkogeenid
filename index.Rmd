@@ -186,7 +186,7 @@ class:inverse, middle, center
 
 ## Kui mitte viirused, siis mis tekitab vähki? Kartsinogeenid!
 
-- Kartsinogeenid toimivad mutageenidena ja nende toime-mehhanismiks on raku kasvukontrolli geenide muteerimine.
+- Kartsinogeenid toimivad mutageenidena ja nende toimemehhanismiks on raku kasvukontrolli geenide muteerimine.
 - Sellisteks kasvukontrolli geenideks võivad olla normaalsed raku geenid, sarnaselt retroviirustest leitud protoonkogeenidega.
 
 ```{r}
